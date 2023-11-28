@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a10413f4483874b9a3ade4fd6d4add, type: 3}
+  m_Name: Map_Settings_v1
+  m_EditorClassIdentifier: 
+  drawCircleAtCenterOfAreasZoom: 0
+  EditorDebug: 0
+  initialArgs:
+    greeceMapPos: {x: 23.672987, y: 37.866535}
+    zoomGreece: 7.8
+    useCustomAreasCenter: 1
+    customAreasCenter: {x: 23.71938, y: 37.97566}
+    areasPreferredZoom: 17
+    useZoomRange: 1
+    minZoom: 14
+    maxZoom: 20.999
+    usePositionRange: 1
+    minLatitude: 37.73
+    maxLatitude: 38.17
+    minLongitude: 23.6
+    maxLongitude: 23.85
+    positionRangeType: 0
+  visual:
+    applyVisualSettings: 1
+    customProviderURL: https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!1m4!1m3!1i{zoom}!2i{x}!3i{y}!2m3!1e4!2st!3i{y}637!2m3!1e0!2sr!3i{y}637375603!3m17!2sel!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNlYmUzY2Qscy5lOmx8cC52Om9mZixzLmU6bC50LmZ8cC5jOiM1MjM3MzUscy5lOmwudC5zfHAuYzojZjVmMWU2LHMudDoxfHMuZTpnLnN8cC5jOiNjOWIyYTYscy50OjIxfHAudjpvZmYscy50OjIxfHMuZTpnLnN8cC5jOiNkY2QyYmUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2FlOWU5MCxzLnQ6MjB8cC52Om9mZixzLnQ6ODJ8cy5lOmd8cC5jOiNkZmQyYWUscy50OjJ8cy5lOmd8cC5jOiNkZmQyYWUscy50OjJ8cy5lOmwudC5mfHAuYzojOTM4MTdjLHMudDo0MHxzLmU6Zy5mfHAuYzojYTViMDc2LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM0NDc1MzAscy50OjN8cC52Om9mZixzLnQ6M3xzLmU6Z3xwLmM6I2Y1ZjFlNixzLnQ6NTB8cy5lOmd8cC5jOiNmZGZjZjgscy50OjQ5fHMuZTpnfHAuYzojZjhjOTY3LHMudDo0OXxzLmU6Zy5zfHAuYzojZTliYzYyLHMudDo3ODV8cy5lOmd8cC5jOiNlOThkNTgscy50Ojc4NXxzLmU6Zy5zfHAuYzojZGI4NTU1LHMudDo1MXxzLmU6bC50LmZ8cC5jOiM4MDZiNjMscy50OjY1fHMuZTpnfHAuYzojZGZkMmFlLHMudDo2NXxzLmU6bC50LmZ8cC5jOiM4ZjdkNzcscy50OjY1fHMuZTpsLnQuc3xwLmM6I2ViZTNjZCxzLnQ6NjZ8cy5lOmd8cC5jOiNkZmQyYWUscy50OjZ8cy5lOmcuZnxwLmM6I2I5ZDNjMixzLnQ6NnxzLmU6bC50LmZ8cC5jOiM5Mjk5OGQ!4e0
+    mapsProvider: 1
+  userMarkerIcon: {fileID: 2800000, guid: 20654df67bcf1c94a8df7435bef9f5f3, type: 3}
+  userMarkerScale: 2
+  areaMarker:
+    createNativeMarkers: 0
+    nativeMarkerScale: 1.3
+    guiMarkerScale: 0.7
+  poisOptions:
+    deleteSavedVisitedPoisOnStart: 1
+    createNativePoiMarkers: 1
+    poiNativeMarkerScale: 1.1
+    useCameraAlgorithm: 1
+    cameraLogY: 1400
+    changeSortOrderOfPOIMarkers: 1
+    zoomOnPoiClick: 0
+    dontCreateMarkerIfFarFromArea: 1
+    maxKmDistFromArea: 5
+    createPoisInRow: 1
+    allowPoiClick: 1
+    allowVisitedMarkerToBeSelectedAgain: 1
+    allowPoiSelectionIfInfoPanelIsOpen: 1
+    allowTriggeredPoiToBeTriggeredAgain: 1
+    enablePoiInfoIfUserIsNear: 1
+  useCustomAreaZoom: 1
+  zoomAreaManual: 18
+  useSmoothnessForAllAreasView: 1
+  useSmoothnessForArea: 1
+  useSmoothnessForAllPoisView: 1
+  smoothTime: 1
+  smoothType: 2

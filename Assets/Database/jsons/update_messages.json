@@ -1,0 +1,198 @@
+[
+	{
+		"info_key": "new_update",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Υπάρχουν διαθέσιμες ενημερώσεις\n\nΘέλετε να κατεβάσετε πρόσθετο πολυμεσικό περιεχόμενο;"
+			},
+			{
+				"key": "en",
+				"text": "There are updates available\n\nWould you like to download additional multimedia material?"
+			}
+		]
+	},
+	{
+		"info_key": "carrier_network",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Υπάρχουν διαθέσιμες ενημερώσεις\n\nΘέλετε να κατεβάσετε πρόσθετο πολυμεσικό περιεχόμενο;\nΕπιλέξτε αν θέλετε να χρησιμοποιήσετε το δίκτυο δεδομένων του φορέα σας."
+			},
+			{
+				"key": "en",
+				"text": "There are updates available\n\nWould you like to download additional multimedia material?\nChoose whether you want to use your carrier's data network."
+			}
+		]
+	},
+	{
+		"info_key": "calculating_size",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Υπολογισμός συνολικού μεγέθους..."
+			},
+			{
+				"key": "en",
+				"text": "Calculating total file size..."
+			}
+		]
+	},
+	{
+		"info_key": "total_filesize",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Συνολικό μέγεθος αρχείων: "
+			},
+			{
+				"key": "en",
+				"text": "Total file size: "
+			}
+		]
+	},
+	{
+		"info_key": "update_failed",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Παρουσιάστηκε κάποιο πρόβλημα κατα την ανάκτηση του πολυμεσικού υλικού. Ελέγξτε την σύνδεση σας με το διαδίκτυο ή αν έχετε αρκετό αποθηκευτικό χώρο."
+			},
+			{
+				"key": "en",
+				"text": "There was a problem retrieving the multimedia content. Check your internet connection or if you have enough storage space."
+			}
+		]
+	},
+	{
+		"info_key": "downloading_files",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "λήψη πολυμεσικών αρχείων"
+			},
+			{
+				"key": "en",
+				"text": "downloading multimedia files"
+			}
+		]
+	},
+	{
+		"info_key": "downloading_images",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "λήψη εικόνων"
+			},
+			{
+				"key": "en",
+				"text": "downloading images"
+			}
+		]
+	},
+	{
+		"info_key": "downloading_narrations",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "λήψη αφηγήσεων"
+			},
+			{
+				"key": "en",
+				"text": "downloading narrations"
+			}
+		]
+	},
+	{
+		"info_key": "downloading_videos",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "λήψη βίντεο"
+			},
+			{
+				"key": "en",
+				"text": "downloading videos"
+			}
+		]
+	},
+	{
+		"info_key": "updating_images",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "ενημέρωση εικόνων"
+			},
+			{
+				"key": "en",
+				"text": "updating images"
+			}
+		]
+	},
+	{
+		"info_key": "updating_narrations",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "ενημέρωση αφηγήσεων"
+			},
+			{
+				"key": "en",
+				"text": "updating narrations"
+			}
+		]
+	},
+	{
+		"info_key": "updating_videos",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "ενημέρωση βίντεο"
+			},
+			{
+				"key": "en",
+				"text": "updating videos"
+			}
+		]
+	},
+	{
+		"info_key": "downloading_data",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "λήψη δεδομένων"
+			},
+			{
+				"key": "en",
+				"text": "downloading data"
+			}
+		]
+	},
+	{
+		"info_key": "updating_data",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "ενημέρωση δεδομένων"
+			},
+			{
+				"key": "en",
+				"text": "updating data"
+			}
+		]
+	}
+]

@@ -1,0 +1,199 @@
+[
+	{
+		"info_key": "NULL",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": ""
+			},
+			{
+				"key": "en",
+				"text": ""
+			}
+		]
+	},
+	{
+		"info_key": "quitting_title",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Έξοδος απο την εφαρμογή"
+			},
+			{
+				"key": "en",
+				"text": "Quit application"
+			}
+		]
+	},
+	{
+		"info_key": "quitting_desc",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Θέλετε να κλείσετε την εφαρμογή;"
+			},
+			{
+				"key": "en",
+				"text": "Are you sure you want to quit?"
+			}
+		]
+	},
+	{
+		"info_key": "button_quit",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Κλείσιμο"
+			},
+			{
+				"key": "en",
+				"text": "Quit"
+			}
+		]
+	},
+	{
+		"info_key": "button_ok",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "OK"
+			},
+			{
+				"key": "en",
+				"text": "OK"
+			}
+		]
+	},
+	{
+		"info_key": "button_update",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Ενημέρωση"
+			},
+			{
+				"key": "en",
+				"text": "Update"
+			}
+		]
+	},
+	{
+		"info_key": "button_cancel",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Ακύρωση"
+			},
+			{
+				"key": "en",
+				"text": "Cancel"
+			}
+		]
+	},
+	{
+		"info_key": "button_yes",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "ΝΑΙ"
+			},
+			{
+				"key": "en",
+				"text": "YES"
+			}
+		]
+	},
+	{
+		"info_key": "button_no",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "ΟΧΙ"
+			},
+			{
+				"key": "en",
+				"text": "NO"
+			}
+		]
+	},
+	{
+		"info_key": "button_agree",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Συμφωνώ"
+			},
+			{
+				"key": "en",
+				"text": "Agree"
+			}
+		]
+	},
+	{
+		"info_key": "button_disagree",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Διαφωνώ"
+			},
+			{
+				"key": "en",
+				"text": "Disagree"
+			}
+		]
+	},
+	{
+		"info_key": "test",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Test GR"
+			},
+			{
+				"key": "en",
+				"text": "Test EN"
+			}
+		]
+	},
+	{
+		"info_key": "ble_disabled",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Το Bluetooth είναι απενεργοποιημένο!\nΑν επιθυμείτε να χρησιμοποιήσετε τα beacons ως τρόπο ενεργοποίησης πληροφοριών, ενεργοποιήστε το."
+			},
+			{
+				"key": "en",
+				"text": "Bluetooth is turned off!\nIf you want to use beacons as a way to trigger information, turn it on."
+			}
+		]
+	}
+	,
+	{
+		"info_key": "camera_denied",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Η πρόσβαση στην κάμερα της συσκευής απέτυχε!\nΑν επιθυμείτε να έχετε μια εμπειρία επαυξημένης πραγματικότητας (AR), επιτρέψτε την χρήση της απο την εφαρμογή."
+			},
+			{
+				"key": "en",
+				"text": "Device camera access failed!\nIf you wish to have an augmented reality (AR) experience, allow the app to use it."
+			}
+		]
+	}
+]

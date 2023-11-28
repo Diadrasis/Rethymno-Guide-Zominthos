@@ -1,0 +1,61 @@
+create new layer "marker"
+assign this layer to gui marker prefabs
+
+ replace in OnlineMapsControlBase.cs function IsCursorOnUIElement with below fix
+
+
+/// <summary>
+    /// Whether the screen position is on UI element
+    /// </summary>
+    /// <param name="position">Screen position</param>
+    /// <returns>True - on UI element, False - otherwise</returns>
+public bool IsCursorOnUIElement(Vector2 position)
+    {
+        if (!map.notInteractUnderGUI) return false;
+#if !IGUI && ((!UNITY_ANDROID && !UNITY_IOS) || UNITY_EDITOR)
+        if (GUIUtility.hotControl != 0) return true;
+#endif
+        if (EventSystem.current == null) return false;
+
+        PointerEventData pe = new PointerEventData(EventSystem.current);
+        pe.position = position;
+
+        List<RaycastResult> hits = new List<RaycastResult>();
+        EventSystem.current.RaycastAll(pe, hits);
+        if (hits.Count == 0) return false;
+
+        GameObject go = hits[0].gameObject;
+
+        if (go == gameObject || OnlineMaps_Settings.Instance.IsMarkerUnderGUI(go)) return false;
+
+        if (go.GetComponent<OnlineMapsMarkerInstanceBase>() != null || go.GetComponent<OnlineMapsBuildingBase>() != null) return false;
+        if (OnValidateCursorOnUIElement != null) return OnValidateCursorOnUIElement(go);
+
+        return true;
+    }
+
+
+//Below class must be in project and layer has to be setup
+
+public class OnlineMaps_Settings : Singleton<OnlineMaps_Settings>
+    {
+
+        protected OnlineMaps_Settings() { }
+
+        [HideInInspector]
+        public LayerMask layerUI_ToIgnore;
+
+        private void OnEnable()
+        {
+            layerUI_ToIgnore = LayerMask.NameToLayer("marker");
+        }
+
+        public bool IsMarkerUnderGUI(GameObject go)
+        {
+            return go.layer == layerUI_ToIgnore;
+        }
+
+        //OnlineMapsControlBase
+        //IsCursorOnUIElement
+
+    }

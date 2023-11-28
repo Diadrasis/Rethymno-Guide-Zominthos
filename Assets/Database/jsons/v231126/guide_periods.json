@@ -1,0 +1,59 @@
+[
+    {
+        "period_id": "193",
+        "period_icon": "ulf_614_spira_minoan_512px.png",
+        "period_color": "",
+        "period_poi_icon": "ulf_615_amforeas_minoan_512px.png",
+        "period_poi_icon_active": "ulf_616_amforeas_minoan_512px_active.png",
+        "period_poi_icon_visited": "ulf_617_amforeas_512px_visited.png",
+        "period_order": "1",
+        "period_title": [
+            {
+                "key": "gr",
+                "text": "Προιστορική"
+            },
+            {
+                "key": "en",
+                "text": "Prehistoric"
+            }
+        ]
+    },
+    {
+        "period_id": "196",
+        "period_icon": "ulf_622_statue_modern_512px.png",
+        "period_color": "",
+        "period_poi_icon": "ulf_622_statue_modern_512px.png",
+        "period_poi_icon_active": "ulf_623_statue_modern_512px_active.png",
+        "period_poi_icon_visited": "ulf_624_statue_modern_512px_visited.png",
+        "period_order": "3",
+        "period_title": [
+            {
+                "key": "gr",
+                "text": "Νεότερη"
+            },
+            {
+                "key": "en",
+                "text": "Modern"
+            }
+        ]
+    },
+    {
+        "period_id": "197",
+        "period_icon": "ulf_610_cross_byzantine_512px.png",
+        "period_color": "",
+        "period_poi_icon": "ulf_625_church_byzantine_512px.png",
+        "period_poi_icon_active": "ulf_626_church_byzantine_512px_active.png",
+        "period_poi_icon_visited": "ulf_627_church_512px_visited.png",
+        "period_order": "2",
+        "period_title": [
+            {
+                "key": "gr",
+                "text": "Βυζαντινή"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    }
+]

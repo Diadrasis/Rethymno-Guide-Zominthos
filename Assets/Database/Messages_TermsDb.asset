@@ -1,0 +1,364 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 626eef2fc575806478a339847f73cfdb, type: 3}
+  m_Name: Messages_TermsDb
+  m_EditorClassIdentifier: 
+  EnumFieldName: keyMessage
+  jsonData:
+  - {fileID: 4900000, guid: 2c581b645c325614b971c36c5b7cb7bd, type: 3}
+  - {fileID: 4900000, guid: ed7952a144e49f64db8ded8d2e851e57, type: 3}
+  - {fileID: 4900000, guid: c5631a5f5e04dbf43967657b8188c1ef, type: 3}
+  terms:
+  - info_key: NULL
+    info_icon: 
+    info_text:
+    - key: gr
+      text: 
+    - key: en
+      text: 
+  - info_key: quitting_title
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0388\u03BE\u03BF\u03B4\u03BF\u03C2 \u03B1\u03C0\u03BF \u03C4\u03B7\u03BD
+        \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03AE"
+    - key: en
+      text: Quit application
+  - info_key: quitting_desc
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0398\u03AD\u03BB\u03B5\u03C4\u03B5 \u03BD\u03B1 \u03BA\u03BB\u03B5\u03AF\u03C3\u03B5\u03C4\u03B5
+        \u03C4\u03B7\u03BD \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03AE;"
+    - key: en
+      text: Are you sure you want to quit?
+  - info_key: button_quit
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u039A\u03BB\u03B5\u03AF\u03C3\u03B9\u03BC\u03BF"
+    - key: en
+      text: Quit
+  - info_key: button_ok
+    info_icon: 
+    info_text:
+    - key: gr
+      text: OK
+    - key: en
+      text: OK
+  - info_key: button_update
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0395\u03BD\u03B7\u03BC\u03AD\u03C1\u03C9\u03C3\u03B7"
+    - key: en
+      text: Update
+  - info_key: button_cancel
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0391\u03BA\u03CD\u03C1\u03C9\u03C3\u03B7"
+    - key: en
+      text: Cancel
+  - info_key: button_yes
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u039D\u0391\u0399"
+    - key: en
+      text: YES
+  - info_key: button_no
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u039F\u03A7\u0399"
+    - key: en
+      text: NO
+  - info_key: button_agree
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03A3\u03C5\u03BC\u03C6\u03C9\u03BD\u03CE"
+    - key: en
+      text: Agree
+  - info_key: button_disagree
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0394\u03B9\u03B1\u03C6\u03C9\u03BD\u03CE"
+    - key: en
+      text: Disagree
+  - info_key: test
+    info_icon: 
+    info_text:
+    - key: gr
+      text: Test GR
+    - key: en
+      text: Test EN
+  - info_key: ble_disabled
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03A4\u03BF Bluetooth \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B1\u03C0\u03B5\u03BD\u03B5\u03C1\u03B3\u03BF\u03C0\u03BF\u03B9\u03B7\u03BC\u03AD\u03BD\u03BF!\n\u0391\u03BD
+        \u03B5\u03C0\u03B9\u03B8\u03C5\u03BC\u03B5\u03AF\u03C4\u03B5 \u03BD\u03B1
+        \u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03B5\u03C4\u03B5
+        \u03C4\u03B1 beacons \u03C9\u03C2 \u03C4\u03C1\u03CC\u03C0\u03BF \u03B5\u03BD\u03B5\u03C1\u03B3\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7\u03C2
+        \u03C0\u03BB\u03B7\u03C1\u03BF\u03C6\u03BF\u03C1\u03B9\u03CE\u03BD, \u03B5\u03BD\u03B5\u03C1\u03B3\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03C4\u03B5
+        \u03C4\u03BF."
+    - key: en
+      text: 'Bluetooth is turned off!
+
+        If you want to use beacons as a way
+        to trigger information, turn it on.'
+  - info_key: camera_denied
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0397 \u03C0\u03C1\u03CC\u03C3\u03B2\u03B1\u03C3\u03B7 \u03C3\u03C4\u03B7\u03BD
+        \u03BA\u03AC\u03BC\u03B5\u03C1\u03B1 \u03C4\u03B7\u03C2 \u03C3\u03C5\u03C3\u03BA\u03B5\u03C5\u03AE\u03C2
+        \u03B1\u03C0\u03AD\u03C4\u03C5\u03C7\u03B5!\n\u0391\u03BD \u03B5\u03C0\u03B9\u03B8\u03C5\u03BC\u03B5\u03AF\u03C4\u03B5
+        \u03BD\u03B1 \u03AD\u03C7\u03B5\u03C4\u03B5 \u03BC\u03B9\u03B1 \u03B5\u03BC\u03C0\u03B5\u03B9\u03C1\u03AF\u03B1
+        \u03B5\u03C0\u03B1\u03C5\u03BE\u03B7\u03BC\u03AD\u03BD\u03B7\u03C2 \u03C0\u03C1\u03B1\u03B3\u03BC\u03B1\u03C4\u03B9\u03BA\u03CC\u03C4\u03B7\u03C4\u03B1\u03C2
+        (AR), \u03B5\u03C0\u03B9\u03C4\u03C1\u03AD\u03C8\u03C4\u03B5 \u03C4\u03B7\u03BD
+        \u03C7\u03C1\u03AE\u03C3\u03B7 \u03C4\u03B7\u03C2 \u03B1\u03C0\u03BF \u03C4\u03B7\u03BD
+        \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03AE."
+    - key: en
+      text: 'Device camera access failed!
+
+        If you wish to have an augmented
+        reality (AR) experience, allow the app to use it.'
+  - info_key: gps_disabled
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03A4\u03BF GPS \u03B5\u03AF\u03BD\u03B1\u03B9 \u03B1\u03C0\u03B5\u03BD\u03B5\u03C1\u03B3\u03BF\u03C0\u03BF\u03B9\u03B7\u03BC\u03AD\u03BD\u03BF!\n\u0391\u03BD
+        \u03B5\u03C0\u03B9\u03B8\u03C5\u03BC\u03B5\u03AF\u03C4\u03B5 \u03BD\u03B1
+        \u03C0\u03BB\u03BF\u03B7\u03B3\u03B7\u03B8\u03B5\u03AF\u03C4\u03B5 \u03B5\u03C0\u03B9\u03C4\u03CC\u03C0\u03B9\u03B1,
+        \u03B5\u03BD\u03B5\u03C1\u03B3\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03C4\u03B5
+        \u03C4\u03BF."
+    - key: en
+      text: 'GPS is disabled!
+
+        In order to navigate in onsite mode, you have
+        to enable it.'
+  - info_key: gps_far_areas
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0395\u03AF\u03C3\u03C4\u03B5 \u03C0\u03BF\u03BB\u03CD \u03BC\u03B1\u03BA\u03C1\u03B9\u03AC
+        \u03B1\u03C0\u03CC \u03C4\u03B9\u03C2 \u03B5\u03BD\u03B5\u03C1\u03B3\u03AD\u03C2
+        \u03C0\u03B5\u03C1\u03B9\u03BF\u03C7\u03AD\u03C2!\n\u039C\u03C0\u03BF\u03C1\u03B5\u03AF\u03C4\u03B5
+        \u03BD\u03B1 \u03C0\u03BB\u03BF\u03B7\u03B3\u03B7\u03B8\u03B5\u03AF\u03C4\u03B5
+        \u03BC\u03CC\u03BD\u03BF \u03B1\u03C0\u03BF\u03BC\u03B1\u03BA\u03C1\u03C5\u03C3\u03BC\u03AD\u03BD\u03B1."
+    - key: en
+      text: 'Your are too far from the active areas!
+
+        You can only navigate
+        in offsite mode.'
+  - info_key: gps_near_areas
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0392\u03C1\u03AF\u03C3\u03BA\u03B5\u03C3\u03C4\u03B5 \u03BA\u03BF\u03BD\u03C4\u03AC
+        \u03C3\u03C4\u03B9\u03C2 \u03B5\u03BD\u03B5\u03C1\u03B3\u03AD\u03C2 \u03C0\u03B5\u03C1\u03B9\u03BF\u03C7\u03AD\u03C2!\nM\u03B5\u03C4\u03B1\u03BA\u03B9\u03BD\u03B7\u03B8\u03B5\u03AF\u03C4\u03B5
+        \u03C3\u03B5 \u03BC\u03B9\u03B1 \u03B1\u03C0\u03CC \u03B1\u03C5\u03C4\u03AD\u03C2
+        \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03BC\u03C0\u03BF\u03C1\u03AD\u03C3\u03B5\u03C4\u03B5
+        \u03BD\u03B1 \u03C0\u03BB\u03BF\u03B7\u03B3\u03B7\u03B8\u03B5\u03AF\u03C4\u03B5
+        \u03B5\u03C0\u03B9\u03C4\u03CC\u03C0\u03B9\u03B1. \u039C\u03AD\u03C7\u03C1\u03B9
+        \u03C4\u03CC\u03C4\u03B5, \u03BC\u03C0\u03BF\u03C1\u03B5\u03AF\u03C4\u03B5
+        \u03BD\u03B1 \u03C0\u03BB\u03BF\u03B7\u03B3\u03B7\u03B8\u03B5\u03AF\u03C4\u03B5
+        \u03B1\u03C0\u03BF\u03BC\u03B1\u03BA\u03C1\u03C5\u03C3\u03BC\u03AD\u03BD\u03B1."
+    - key: en
+      text: 'You are close to active areas!
+
+        Move inside one of them in order
+        to be able to navigate in onsite mode. Until then, you can only navigate
+        in offsite mode.'
+  - info_key: gps_inside_area
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0392\u03C1\u03AF\u03C3\u03BA\u03B5\u03C3\u03C4\u03B5 \u03B5\u03BD\u03C4\u03CC\u03C2
+        \u03B5\u03BD\u03B5\u03C1\u03B3\u03AE\u03C2 \u03C0\u03B5\u03C1\u03B9\u03BF\u03C7\u03AE\u03C2.
+        \u0398\u03AD\u03BB\u03B5\u03C4\u03B5 \u03BD\u03B1 \u03C0\u03BB\u03BF\u03B7\u03B3\u03B7\u03B8\u03B5\u03AF\u03C4\u03B5
+        \u03B5\u03C0\u03B9\u03C4\u03CC\u03C0\u03B9\u03B1;"
+    - key: en
+      text: You are inside an active area. Do you want to navigate onsite?
+  - info_key: gps_distance_check
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0388\u03BB\u03B5\u03B3\u03C7\u03BF\u03C2 \u03B1\u03C0\u03CC\u03C3\u03C4\u03B1\u03C3\u03B7\u03C2
+        \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03B5\u03BD\u03B5\u03C1\u03B3\u03AE
+        \u03C0\u03B5\u03C1\u03B9\u03BF\u03C7\u03AE"
+    - key: en
+      text: Checking distance from active area
+  - info_key: gps_failed
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u039F \u03B5\u03BD\u03C4\u03BF\u03C0\u03B9\u03C3\u03BC\u03CC\u03C2
+        \u03B8\u03AD\u03C3\u03B7\u03C2 \u03B1\u03C0\u03AD\u03C4\u03C5\u03C7\u03B5"
+    - key: en
+      text: Starting location services failed
+  - info_key: gps_initialized
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0397 \u03B8\u03AD\u03C3\u03B7 \u03B5\u03BD\u03C4\u03BF\u03C0\u03AF\u03C3\u03C4\u03B7\u03BA\u03B5"
+    - key: en
+      text: GPS location detected
+  - info_key: gps_initialize_failed
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03A4\u03BF GPS \u03B4\u03B5\u03BD \u03AD\u03C7\u03B5\u03B9 \u03B1\u03BA\u03C1\u03AF\u03B2\u03B5\u03B9\u03B1!\n\u0398\u03AD\u03BB\u03B5\u03C4\u03B5
+        \u03BD\u03B1 \u03B3\u03AF\u03BD\u03B5\u03B9 \u03C0\u03C1\u03BF\u03C3\u03C0\u03AC\u03B8\u03B5\u03B9\u03B1
+        \u03B5\u03BD\u03C4\u03BF\u03C0\u03B9\u03C3\u03BC\u03BF\u03CD \u03C4\u03B7\u03C2
+        \u03B8\u03AD\u03C3\u03B7\u03C2 \u03C3\u03B1\u03C2;"
+    - key: en
+      text: 'GPS is inaccurate!
+
+        Allow app to attempt to locate you position?'
+  - info_key: new_update
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03A5\u03C0\u03AC\u03C1\u03C7\u03BF\u03C5\u03BD \u03B4\u03B9\u03B1\u03B8\u03AD\u03C3\u03B9\u03BC\u03B5\u03C2
+        \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03CE\u03C3\u03B5\u03B9\u03C2\n\n\u0398\u03AD\u03BB\u03B5\u03C4\u03B5
+        \u03BD\u03B1 \u03BA\u03B1\u03C4\u03B5\u03B2\u03AC\u03C3\u03B5\u03C4\u03B5
+        \u03C0\u03C1\u03CC\u03C3\u03B8\u03B5\u03C4\u03BF \u03C0\u03BF\u03BB\u03C5\u03BC\u03B5\u03C3\u03B9\u03BA\u03CC
+        \u03C0\u03B5\u03C1\u03B9\u03B5\u03C7\u03CC\u03BC\u03B5\u03BD\u03BF;"
+    - key: en
+      text: 'There are updates available
+
+
+        Would you like to download additional
+        multimedia material?'
+  - info_key: carrier_network
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03A5\u03C0\u03AC\u03C1\u03C7\u03BF\u03C5\u03BD \u03B4\u03B9\u03B1\u03B8\u03AD\u03C3\u03B9\u03BC\u03B5\u03C2
+        \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03CE\u03C3\u03B5\u03B9\u03C2\n\n\u0398\u03AD\u03BB\u03B5\u03C4\u03B5
+        \u03BD\u03B1 \u03BA\u03B1\u03C4\u03B5\u03B2\u03AC\u03C3\u03B5\u03C4\u03B5
+        \u03C0\u03C1\u03CC\u03C3\u03B8\u03B5\u03C4\u03BF \u03C0\u03BF\u03BB\u03C5\u03BC\u03B5\u03C3\u03B9\u03BA\u03CC
+        \u03C0\u03B5\u03C1\u03B9\u03B5\u03C7\u03CC\u03BC\u03B5\u03BD\u03BF;\n\u0395\u03C0\u03B9\u03BB\u03AD\u03BE\u03C4\u03B5
+        \u03B1\u03BD \u03B8\u03AD\u03BB\u03B5\u03C4\u03B5 \u03BD\u03B1 \u03C7\u03C1\u03B7\u03C3\u03B9\u03BC\u03BF\u03C0\u03BF\u03B9\u03AE\u03C3\u03B5\u03C4\u03B5
+        \u03C4\u03BF \u03B4\u03AF\u03BA\u03C4\u03C5\u03BF \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03C9\u03BD
+        \u03C4\u03BF\u03C5 \u03C6\u03BF\u03C1\u03AD\u03B1 \u03C3\u03B1\u03C2."
+    - key: en
+      text: 'There are updates available
+
+
+        Would you like to download additional
+        multimedia material?
+
+        Choose whether you want to use your carrier''s
+        data network.'
+  - info_key: calculating_size
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03A5\u03C0\u03BF\u03BB\u03BF\u03B3\u03B9\u03C3\u03BC\u03CC\u03C2 \u03C3\u03C5\u03BD\u03BF\u03BB\u03B9\u03BA\u03BF\u03CD
+        \u03BC\u03B5\u03B3\u03AD\u03B8\u03BF\u03C5\u03C2..."
+    - key: en
+      text: Calculating total file size...
+  - info_key: total_filesize
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03A3\u03C5\u03BD\u03BF\u03BB\u03B9\u03BA\u03CC \u03BC\u03AD\u03B3\u03B5\u03B8\u03BF\u03C2
+        \u03B1\u03C1\u03C7\u03B5\u03AF\u03C9\u03BD: "
+    - key: en
+      text: 'Total file size: '
+  - info_key: update_failed
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03A0\u03B1\u03C1\u03BF\u03C5\u03C3\u03B9\u03AC\u03C3\u03C4\u03B7\u03BA\u03B5
+        \u03BA\u03AC\u03C0\u03BF\u03B9\u03BF \u03C0\u03C1\u03CC\u03B2\u03BB\u03B7\u03BC\u03B1
+        \u03BA\u03B1\u03C4\u03B1 \u03C4\u03B7\u03BD \u03B1\u03BD\u03AC\u03BA\u03C4\u03B7\u03C3\u03B7
+        \u03C4\u03BF\u03C5 \u03C0\u03BF\u03BB\u03C5\u03BC\u03B5\u03C3\u03B9\u03BA\u03BF\u03CD
+        \u03C5\u03BB\u03B9\u03BA\u03BF\u03CD. \u0395\u03BB\u03AD\u03B3\u03BE\u03C4\u03B5
+        \u03C4\u03B7\u03BD \u03C3\u03CD\u03BD\u03B4\u03B5\u03C3\u03B7 \u03C3\u03B1\u03C2
+        \u03BC\u03B5 \u03C4\u03BF \u03B4\u03B9\u03B1\u03B4\u03AF\u03BA\u03C4\u03C5\u03BF
+        \u03AE \u03B1\u03BD \u03AD\u03C7\u03B5\u03C4\u03B5 \u03B1\u03C1\u03BA\u03B5\u03C4\u03CC
+        \u03B1\u03C0\u03BF\u03B8\u03B7\u03BA\u03B5\u03C5\u03C4\u03B9\u03BA\u03CC
+        \u03C7\u03CE\u03C1\u03BF."
+    - key: en
+      text: There was a problem retrieving the multimedia content. Check your internet
+        connection or if you have enough storage space.
+  - info_key: downloading_files
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03BB\u03AE\u03C8\u03B7 \u03C0\u03BF\u03BB\u03C5\u03BC\u03B5\u03C3\u03B9\u03BA\u03CE\u03BD
+        \u03B1\u03C1\u03C7\u03B5\u03AF\u03C9\u03BD"
+    - key: en
+      text: downloading multimedia files
+  - info_key: downloading_images
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03BB\u03AE\u03C8\u03B7 \u03B5\u03B9\u03BA\u03CC\u03BD\u03C9\u03BD"
+    - key: en
+      text: downloading images
+  - info_key: downloading_narrations
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03BB\u03AE\u03C8\u03B7 \u03B1\u03C6\u03B7\u03B3\u03AE\u03C3\u03B5\u03C9\u03BD"
+    - key: en
+      text: downloading narrations
+  - info_key: downloading_videos
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03BB\u03AE\u03C8\u03B7 \u03B2\u03AF\u03BD\u03C4\u03B5\u03BF"
+    - key: en
+      text: downloading videos
+  - info_key: updating_images
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03B5\u03BD\u03B7\u03BC\u03AD\u03C1\u03C9\u03C3\u03B7 \u03B5\u03B9\u03BA\u03CC\u03BD\u03C9\u03BD"
+    - key: en
+      text: updating images
+  - info_key: updating_narrations
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03B5\u03BD\u03B7\u03BC\u03AD\u03C1\u03C9\u03C3\u03B7 \u03B1\u03C6\u03B7\u03B3\u03AE\u03C3\u03B5\u03C9\u03BD"
+    - key: en
+      text: updating narrations
+  - info_key: updating_videos
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03B5\u03BD\u03B7\u03BC\u03AD\u03C1\u03C9\u03C3\u03B7 \u03B2\u03AF\u03BD\u03C4\u03B5\u03BF"
+    - key: en
+      text: updating videos
+  - info_key: downloading_data
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03BB\u03AE\u03C8\u03B7 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03C9\u03BD"
+    - key: en
+      text: downloading data
+  - info_key: updating_data
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u03B5\u03BD\u03B7\u03BC\u03AD\u03C1\u03C9\u03C3\u03B7 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03C9\u03BD"
+    - key: en
+      text: updating data

@@ -1,0 +1,15 @@
+Styled Google Maps
+To use Styled Google Maps:
+1. Configure the desired style map using any online service that allows you to customize the style
+of the map. For Example: https://snazzymaps.com/
+2. Open the browser developer tools. Hotkey in most browsers - F12.
+3. Find an address request to download any tile. It will look like:
+https://maps.googleapis.com/maps/vt?pb=!1m5!1m4...
+4. Open this URL and make sure that the image has a size of 256x256.
+5. Copy this address.
+6. In Online Maps Inspector select «Provider - Custom», and paste the address in «URL».
+7. In the «URL» replace «!1iX!2iX!3iX», to «!1i{zoom}!2i{x}!3i{y}».
+It should look something like this:
+https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i{zoom}!2i{x}!3i{y}!2m3!...
+8. Make sure URL ends at «!4e0» (inclusive). If you have characters after this, delete them.
+That's all. You are using Styled Google Maps.

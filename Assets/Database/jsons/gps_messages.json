@@ -1,0 +1,114 @@
+[
+	{
+		"info_key": "gps_disabled",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Το GPS είναι απενεργοποιημένο!\nΑν επιθυμείτε να πλοηγηθείτε επιτόπια, ενεργοποιήστε το."
+			},
+			{
+				"key": "en",
+				"text": "GPS is disabled!\nIn order to navigate in onsite mode, you have to enable it."
+			}
+		]
+	},
+	{
+		"info_key": "gps_far_areas",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Είστε πολύ μακριά από τις ενεργές περιοχές!\nΜπορείτε να πλοηγηθείτε μόνο απομακρυσμένα."
+			},
+			{
+				"key": "en",
+				"text": "Your are too far from the active areas!\nYou can only navigate in offsite mode."
+			}
+		]
+	},
+	{
+		"info_key": "gps_near_areas",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Βρίσκεστε κοντά στις ενεργές περιοχές!\nMετακινηθείτε σε μια από αυτές για να μπορέσετε να πλοηγηθείτε επιτόπια. Μέχρι τότε, μπορείτε να πλοηγηθείτε απομακρυσμένα."
+			},
+			{
+				"key": "en",
+				"text": "You are close to active areas!\nMove inside one of them in order to be able to navigate in onsite mode. Until then, you can only navigate in offsite mode."
+			}
+		]
+	},
+	{
+		"info_key": "gps_inside_area",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Βρίσκεστε εντός ενεργής περιοχής. Θέλετε να πλοηγηθείτε επιτόπια;"
+			},
+			{
+				"key": "en",
+				"text": "You are inside an active area. Do you want to navigate onsite?"
+			}
+		]
+	},
+	{
+		"info_key": "gps_distance_check",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Έλεγχος απόστασης από την ενεργή περιοχή"
+			},
+			{
+				"key": "en",
+				"text": "Checking distance from active area"
+			}
+		]
+	},
+	{
+		"info_key": "gps_failed",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Ο εντοπισμός θέσης απέτυχε"
+			},
+			{
+				"key": "en",
+				"text": "Starting location services failed"
+			}
+		]
+	},
+	{
+		"info_key": "gps_initialized",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Η θέση εντοπίστηκε"
+			},
+			{
+				"key": "en",
+				"text": "GPS location detected"
+			}
+		]
+	},
+	{
+		"info_key": "gps_initialize_failed",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Το GPS δεν έχει ακρίβεια!\nΘέλετε να γίνει προσπάθεια εντοπισμού της θέσης σας;"
+			},
+			{
+				"key": "en",
+				"text": "GPS is inaccurate!\nAllow app to attempt to locate you position?"
+			}
+		]
+	}
+]

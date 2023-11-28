@@ -1,0 +1,294 @@
+[
+	{
+		"info_key": "select_area",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Επιλέξτε μια περιοχή στον χάρτη"
+			},
+			{
+				"key": "en",
+				"text": "Select an area on map"
+			}
+		]
+	},
+	{
+		"info_key": "select_route_type",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Επιλέξτε το είδος της ξενάγησης απο τη λίστα"
+			},
+			{
+				"key": "en",
+				"text": "Select the type of tour from the list"
+			}
+		]
+	},
+	{
+		"info_key": "select_period",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Επιλέξτε περίοδο ξενάγησης απο τη λίστα"
+			},
+			{
+				"key": "en",
+				"text": "Select tour period from the list"
+			}
+		]
+	},
+	{
+		"info_key": "select_poi",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Επιλέξτε ένα Σημείο Ενδιαφέροντος στον χάρτη"
+			},
+			{
+				"key": "en",
+				"text": "Select a Point of Interest on map"
+			}
+		]
+	},
+	{
+		"info_key": "btnLanguage",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Ελληνικά"
+			},
+			{
+				"key": "en",
+				"text": "English"
+			},
+			{
+				"key": "fr",
+				"text": "Français"
+			},
+			{
+				"key": "de",
+				"text": "Deutsch"
+			},
+			{
+				"key": "ru",
+				"text": "Русский"
+			}
+		]
+	},
+	{
+		"info_key": "btnLayersToggle",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Δορυφόρος"
+			},
+			{
+				"key": "en",
+				"text": "Satellite"
+			}
+		]
+	},
+	{
+		"info_key": "btnTpographyToggle",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Κάτοψη"
+			},
+			{
+				"key": "en",
+				"text": "Topography"
+			}
+		]
+	},
+	{
+		"info_key": "map_settings",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Ρυθμίσεις Χάρτη"
+			},
+			{
+				"key": "en",
+				"text": "Map Settings"
+			}
+		]
+	},
+	{
+		"info_key": "tour_mode",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Γεωεντοπισμός"
+			},
+			{
+				"key": "en",
+				"text": "Geolocation"
+			}
+		]
+	},
+	{
+		"info_key": "poi_dist",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Απόσταση απο POI"
+			},
+			{
+				"key": "en",
+				"text": "POI Distance"
+			}
+		]
+	},
+	{
+		"info_key": "beacons_mode",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Beacons"
+			},
+			{
+				"key": "en",
+				"text": "Beacons"
+			}
+		]
+	},
+	{
+		"info_key": "accuracy_check",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Έλεγχος Ακρίβειας"
+			},
+			{
+				"key": "en",
+				"text": "Accuracy Check"
+			}
+		]
+	},
+	{
+		"info_key": "info",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Πληροφορίες"
+			},
+			{
+				"key": "en",
+				"text": "Info"
+			}
+		]
+	},
+	{
+		"info_key": "check_updates",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Έλεγχος περιεχομένου πολυμέσων\nΠαρακαλώ περιμένετε..."
+			},
+			{
+				"key": "en",
+				"text": "Checking multimedia content\nPlease wait..."
+			}
+		]
+	},
+	{
+		"info_key": "font_size",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Μέγεθος γραμματοσειράς"
+			},
+			{
+				"key": "en",
+				"text": "Font size"
+			}
+		]
+	},
+	{
+		"info_key": "Byzantine",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Βυζαντινή"
+			},
+			{
+				"key": "en",
+				"text": "Byzantine"
+			}
+		]
+	},
+	{
+		"info_key": "Prehistoric",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Προιστορική"
+			},
+			{
+				"key": "en",
+				"text": "Prehistoric"
+			}
+		]
+	},
+	{
+		"info_key": "Modern",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Νεότερη"
+			},
+			{
+				"key": "en",
+				"text": "Modern"
+			}
+		]
+	},
+	{
+		"info_key": "guide",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Ξεναγός"
+			},
+			{
+				"key": "en",
+				"text": "Guide"
+			}
+		]
+	},
+	{
+		"info_key": "ar",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Επαυξημένη Πραγματικότητα"
+			},
+			{
+				"key": "en",
+				"text": "Augmented Reality"
+			}
+		]
+	}
+]

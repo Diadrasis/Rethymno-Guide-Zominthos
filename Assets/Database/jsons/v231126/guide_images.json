@@ -1,0 +1,4214 @@
+[
+    {
+        "image_id": "202",
+        "poi_id": "199",
+        "image_order": "1",
+        "image_file": "ulf_14_EFA RETHIMNOU -2023-103.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχοδομία"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Λεπτομέρεια της τοιχοδομίας από τα ανασκαφθέντα δωμάτια της οικιστικής εγκατάστασης."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "203",
+        "poi_id": "201",
+        "image_order": "1",
+        "image_file": "ulf_19_EFA RETHIMNOU -2023-108.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Πρόσοψη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Πρόσοψη υστερομινωικού θολωτού υπόγειου τάφου."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "212",
+        "poi_id": "207",
+        "image_order": "11",
+        "image_file": "ulf_129_EFA RETHIMNOU -2023-1626.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ναός της Παναγίας (Μέρωνας)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Εναέρια άποψη του ναού της Παναγίας στον Μέρωνα."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "213",
+        "poi_id": "207",
+        "image_order": "21",
+        "image_file": "ulf_135_EFA RETHIMNOU -2023-1622.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Υπέρθυρο (Ναός της Παναγίας, Μέρωνας)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Λεπτομέρεια από το διακοσμητικό υπέρθυρο."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "214",
+        "poi_id": "207",
+        "image_order": "8",
+        "image_file": "ulf_133_EFA RETHIMNOU -2023-1619.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Καμπαναριό (Ναός της Παναγίας, Μέρωνας)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του μονόλοβου καμπαναριού, το οποίο αποτελεί μεταγενέστερη προσθήκη στη νότια όψη του ναού."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "215",
+        "poi_id": "207",
+        "image_order": "12",
+        "image_file": "ulf_128_EFA RETHIMNOU -2023-1616.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ναός της Παναγίας (Μέρωνας)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του ναού της Παναγίας στον Μέρωνα."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "216",
+        "poi_id": "207",
+        "image_order": "26",
+        "image_file": "ulf_132_EFA RETHIMNOU -2023-1613.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Φορητή εικόνα (Ναός της Παναγίας, Μέρωνας)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Φορητή εικόνα που απεικονίζει τον Προφήτη Ηλία."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "217",
+        "poi_id": "207",
+        "image_order": "25",
+        "image_file": "ulf_134_EFA RETHIMNOU -2023-1611.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Φορητή εικόνα (Ναός της Παναγίας, Μέρωνας)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Φορητή εικόνα που απεικονίζει τον Άγιο Γεώργιο τον Κεφαλοφόρο."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "218",
+        "poi_id": "207",
+        "image_order": "20",
+        "image_file": "ulf_131_EFA RETHIMNOU -2023-1606.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία (Ναός της Παναγίας, Μέρωνας)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία με θέμα τον ασπασμό του Ιωακείμ και της Άννα στο νότιο τμήμα της κεντρικής καμάρας."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "219",
+        "poi_id": "207",
+        "image_order": "19",
+        "image_file": "ulf_130_EFA RETHIMNOU -2023-1602.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία (Ναός της Παναγίας, Μέρωνας)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία με θέμα τη Σταύρωση που παραπέμπει στην εικονογραφία της ύστερης παλαιολόγειας(CL)ζωγραφικής."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "220",
+        "poi_id": "207",
+        "image_order": "24",
+        "image_file": "ulf_136_EFA RETHIMNOU -2023-1601.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Φορητή εικόνα (Ναός της Παναγίας, Μέρωνας)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Φορητή εικόνα με την Παναγία στον τύπο της Οδηγήτριας, αριστεροκρατούσας. Τεχνοτροπικά διαφαίνεται η διείσδυση της ιδεαλιστικής ζωγραφικής των μέσων του 14ου αιώνα."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "222",
+        "poi_id": "221",
+        "image_order": "1",
+        "image_file": "ulf_121_EFA RETHIMNOU -2023-1475.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ναός Αρχαγγέλου Μιχαήλ (Λιβάδια)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του δίκλιτου ναού με νάρθηκα αφιερωμένο στον Μιχαήλ Αρχάγγελο."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "223",
+        "poi_id": "221",
+        "image_order": "2",
+        "image_file": "ulf_120_EFA RETHIMNOU -2023-1474.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ναός Αρχαγγέλου Μιχαήλ (Λιβάδια)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του δίκλιτου ναού με νάρθηκα αφιερωμένο στον Μιχαήλ Αρχάγγελο."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "224",
+        "poi_id": "221",
+        "image_order": "5",
+        "image_file": "ulf_124_EFA RETHIMNOU -2023-1458.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία (Ναός Αρχαγγέλου Μιχαήλ, Λιβάδια)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία από το εσωτερικό του ναού."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "225",
+        "poi_id": "221",
+        "image_order": "6",
+        "image_file": "ulf_122_EFA RETHIMNOU -2023-1452.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία (Ναός Αρχαγγέλου Μιχαήλ, Λιβάδια)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία με θέμα τη Σταύρωση από το εσωτερικό του ναού."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "226",
+        "poi_id": "221",
+        "image_order": "7",
+        "image_file": "ulf_123_EFA RETHIMNOU -2023-1444.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία (Ναός Αρχαγγέλου Μιχαήλ, Λιβάδια)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία με θέμα τη Σταύρωση από το εσωτερικό του ναού."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "228",
+        "poi_id": "208",
+        "image_order": "8",
+        "image_file": "ulf_54_EFA RETHIMNOU -2023-43.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τέμπλο (Ναός του Αγίου Ιωάννη, Ανώγεια)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ξυλόγλυπτο τέμπλο του ναού του Αγίου Ιωάννη στα Ανώγεια."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "229",
+        "poi_id": "208",
+        "image_order": "10",
+        "image_file": "ulf_52_EFA RETHIMNOU -2023-25.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία (Ναός του Αγίου Ιωάννη, Ανώγεια)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία που απεικονίζει την Παναγία στον τύπο της (Q)Γλυκοφιλούσας(Q)."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "230",
+        "poi_id": "208",
+        "image_order": "11",
+        "image_file": "ulf_55_EFA RETHIMNOU -2023-24.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία (Ναός του Αγίου Ιωάννη, Ανώγεια)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία στην οποία στο κέντρο απεικονίζονται η Αγία Αυτοκράτειρα Ειρήνη και η Μεγαλομάρτυς Κυριακή, με στέμματα και πολυτελή ενδύματα."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "231",
+        "poi_id": "208",
+        "image_order": "5",
+        "image_file": "ulf_56_EFA RETHIMNOU -2023-46.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ξύλινο θωράκιο τέμπλου (Ναός του Αγίου Ιωάννη, Ανώγεια)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ξύλινο θωράκιο από την κατώτερη ζώνη του τέμπλου με ζωγραφικό διάκοσμο και θέμα την Εκδίωξη των Πρωτοπλάστων από τον Παράδεισο."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "232",
+        "poi_id": "208",
+        "image_order": "4",
+        "image_file": "ulf_53_EFA RETHIMNOU -2023-19.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ναός του Αγίου Ιωάννη (Ανώγεια)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του εσωτερικού του ναού του Αγίου Ιωάννη."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "233",
+        "poi_id": "208",
+        "image_order": "9",
+        "image_file": "ulf_108_EFA RETHIMNOU -2023-30.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία (Ναός Αγίου Ιωάννη, Ανώγεια)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία με θέμα τη Δέηση"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "235",
+        "poi_id": "234",
+        "image_order": "2",
+        "image_file": "ulf_103_EFA RETHIMNOU -2023-6458.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ιερά Μονή Μιχαήλ Αρχαγγέλου (Φοινικιάς)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη της μονής από ψηλά."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "236",
+        "poi_id": "234",
+        "image_order": "6",
+        "image_file": "ulf_104_EFA RETHIMNOU -2023-6448.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Λαογραφικό - Εκκλησιαστικό Μουσείο (Ιερά Μονή Αρχαγγέλου Μιχαήλ, Φοινικιάς)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του Λαογραφικού - Εκκλησιαστικού Μουσείου που διαμορφώθηκε στον χώρο όπου υπήρχε το λιοτρίβι της Μονής."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "237",
+        "poi_id": "234",
+        "image_order": "5",
+        "image_file": "ulf_105_EFA RETHIMNOU -2023-6445.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Λαογραφικό - Εκκλησιαστικό Μουσείο (Ιερά Μονή Αρχαγγέλου Μιχαήλ, Φοινικιάς)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του Λαογραφικού - Εκκλησιαστικού Μουσείου που διαμορφώθηκε στον χώρο όπου υπήρχε το λιοτρίβι της Μονής. Εδώ η αίθουσα με τις μυλόπετρες που χρησιμοποιούσαν για τη σύνθλιψη του ελαιοκάρπου, γεωργικά εργαλεία, δοχεία μεταφοράς κ.ά."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "238",
+        "poi_id": "234",
+        "image_order": "1",
+        "image_file": "ulf_107_EFA RETHIMNOU -2023-6444.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Εσωτερικό ναού (Μονή Μιχαήλ Αρχαγγέλου, Φοινικιάς)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Εσωτερική άποψη του ναού της Μονής που έχει αφιερωθεί στον Αρχάγγελο Μιχαήλ."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "239",
+        "poi_id": "234",
+        "image_order": "7",
+        "image_file": "ulf_106_EFA RETHIMNOU -2023-6440.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Λαογραφικό - Εκκλησιαστικό Μουσείο (Ιερά Μονή Αρχαγγέλου Μιχαήλ, Φοινικιάς)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Παραδοσιακή φορεσιά, έκθεμα του του Λαογραφικού - Εκκλησιαστικού Μουσείου της Ιεράς Μονής Αρχαγγέλου Μιχαήλ Φοινικιάς."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "241",
+        "poi_id": "240",
+        "image_order": "13",
+        "image_file": "ulf_118_EFA RETHIMNOU -2023-1415.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία (Ναός της Παναγίας, Λαμπινή)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία της Παναγίας στην κόγχη του Ιερού σε στάση δέησης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "242",
+        "poi_id": "240",
+        "image_order": "14",
+        "image_file": "ulf_119_EFA RETHIMNOU -2023-1421.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία (Ναός της Παναγίας, Λαμπινή)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία με θέμα τον (Q)βρυγμό των οδόντων(Q), της τιμωρίας των κολαζομένων όπως περιγράφεται στο Κατά Ματθαίον Ευαγγέλιο 8:12: «…εις το σκότος το εξώτερον· εκει εσται ο κλαυθμὸς και ο βρυγμὸς των οδόντων»."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "243",
+        "poi_id": "240",
+        "image_order": "6",
+        "image_file": "ulf_117_EFA RETHIMNOU -2023-1433.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ναός της Παναγίας (Λαμπινή)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο ναός της Παναγίας στη Λαμπηνή (ή Λαμπινή) είναι τετράστυλος σταυροειδής ναός με τρούλο που στηρίζεται σε τέσσερις πεσσούς, με προεξέχουσες τις πλάγιες κεραίες. Χρονολογείται στα τέλη του 12ου αιώνα,"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "245",
+        "poi_id": "207",
+        "image_order": "1",
+        "image_file": "ulf_164_meronas_19.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Δυτική όψη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Δυτική όψη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "246",
+        "poi_id": "207",
+        "image_order": "23",
+        "image_file": "ulf_165_meronas_12.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Φεγγίτης με ανάγλυφα διακοσμητικά μοτίβα και οικόσημο Καλλεργών"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Φεγγίτης με ανάγλυφα διακοσμητικά μοτίβα και οικόσημο Καλλεργών"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "247",
+        "poi_id": "207",
+        "image_order": "22",
+        "image_file": "ulf_166_meronas_13.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Φεγγίτης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Φεγγίτης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "248",
+        "poi_id": "207",
+        "image_order": "9",
+        "image_file": "ulf_167_meronas_15.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Κτητορική Επιγραφή"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Κτητορική Επιγραφή"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "249",
+        "poi_id": "207",
+        "image_order": "5",
+        "image_file": "ulf_168_meronas_21.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η Προσευχή της Άννης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η Προσευχή της Άννης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "250",
+        "poi_id": "207",
+        "image_order": "16",
+        "image_file": "ulf_169_meronas_24.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ο Ρωμανός ο Σκλεποδιώκτης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο Ρωμανός ο Σκλεποδιώκτης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "251",
+        "poi_id": "207",
+        "image_order": "7",
+        "image_file": "ulf_170_meronas_29.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η Σταύρωση"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η Σταύρωση"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "252",
+        "poi_id": "207",
+        "image_order": "2",
+        "image_file": "ulf_171_meronas_25.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η Απογραφή του Κυρηνίου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η Απογραφή του Κυρηνίου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "253",
+        "poi_id": "207",
+        "image_order": "6",
+        "image_file": "ulf_172_meronas_27.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η Ρίζα Ιεσσαί"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η Ρίζα Ιεσσαί"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "254",
+        "poi_id": "207",
+        "image_order": "3",
+        "image_file": "ulf_173_meronas_1.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η Βρεφοκρατούσα της αψίδας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η Βρεφοκρατούσα της αψίδας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "255",
+        "poi_id": "207",
+        "image_order": "15",
+        "image_file": "ulf_174_meronas_28.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ο Νιπτήρας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο Νιπτήρας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "256",
+        "poi_id": "207",
+        "image_order": "4",
+        "image_file": "ulf_175_meronas_30.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η Μεταμόρφωση"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η Μεταμόρφωση"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "257",
+        "poi_id": "207",
+        "image_order": "18",
+        "image_file": "ulf_176_meronas_31.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Οικόσημο με εγκοπή"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Οικόσημο με εγκοπή"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "258",
+        "poi_id": "207",
+        "image_order": "27",
+        "image_file": "ulf_177_meronas_gerola.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Φωτογραφία του ναού από τον G.Gerola"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Φωτογραφία του ναού από τον G.Gerola"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "259",
+        "poi_id": "207",
+        "image_order": "10",
+        "image_file": "ulf_178_meronas_26.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Λαξευτός φεγγίτης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Λαξευτός φεγγίτης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "260",
+        "poi_id": "207",
+        "image_order": "17",
+        "image_file": "ulf_179_meronas_507.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Οι συλλειτουργούντες ιεράρχες από την κεντρική αψίδα"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Οι συλλειτουργούντες ιεράρχες από την κεντρική αψίδα"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "261",
+        "poi_id": "207",
+        "image_order": "13",
+        "image_file": "ulf_180_meronas_8.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ο ανάγλυφος διάκοσμος της αψίδας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο ανάγλυφος διάκοσμος της αψίδας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "262",
+        "poi_id": "207",
+        "image_order": "14",
+        "image_file": "ulf_181_meronas_9.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ο ανάγλυφος διάκοσμος της αψίδας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο ανάγλυφος διάκοσμος της αψίδας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "263",
+        "poi_id": "208",
+        "image_order": "1",
+        "image_file": "ulf_182_anogeia_75.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Άποψη του μνημείου πριν την αφαίρεση των επιχρισμάτων"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του μνημείου πριν την αφαίρεση των επιχρισμάτων"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "264",
+        "poi_id": "208",
+        "image_order": "1",
+        "image_file": "ulf_183_anogeia_3.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Αποψη του μνημείου μετά τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Αποψη του μνημείου μετά τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "265",
+        "poi_id": "208",
+        "image_order": "7",
+        "image_file": "ulf_184_anogeia_19.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ο Επιτάφιος Θρήνος"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο Επιτάφιος Θρήνος"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "266",
+        "poi_id": "208",
+        "image_order": "3",
+        "image_file": "ulf_185_anogeia_24.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η Κοίμηση της Θεοτόκου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η Κοίμηση της Θεοτόκου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "267",
+        "poi_id": "208",
+        "image_order": "2",
+        "image_file": "ulf_186_anogeia_142.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η Δέηση στο τεταρτοσφαίριο της αψίδας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η Δέηση στο τεταρτοσφαίριο της αψίδας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "268",
+        "poi_id": "208",
+        "image_order": "6",
+        "image_file": "ulf_187_anogeia_176.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ο άγιος Δημήτριος φονεύει τον Σκυλογιάννη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο άγιος Δημήτριος φονεύει τον Σκυλογιάννη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "269",
+        "poi_id": "240",
+        "image_order": "8",
+        "image_file": "ulf_188_labinh_265.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ο άγιος Νικόλαος, από το παλαιότερο τοιχογραφικό στρώμα"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο άγιος Νικόλαος, από το παλαιότερο τοιχογραφικό στρώμα"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "270",
+        "poi_id": "240",
+        "image_order": "4",
+        "image_file": "ulf_189_labinh_313.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η Παναγία η Λαμπηνή, από το τεταρτοσφαίριο της αψίδας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η Παναγία η Λαμπηνή, από το τεταρτοσφαίριο της αψίδας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "271",
+        "poi_id": "240",
+        "image_order": "12",
+        "image_file": "ulf_190_labinh_290.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Το Όραμα του αγίου Ευσταθίου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Το Όραμα του αγίου Ευσταθίου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "272",
+        "poi_id": "240",
+        "image_order": "9",
+        "image_file": "ulf_191_labinh_308.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ο Λίθος"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο Λίθος"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "273",
+        "poi_id": "240",
+        "image_order": "7",
+        "image_file": "ulf_192_labinh_362.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Νεκρικό πορτραίτο του Ιωάννη Καψοδάση (1301)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Νεκρικό πορτραίτο του Ιωάννη Καψοδάση (1301)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "274",
+        "poi_id": "240",
+        "image_order": "15",
+        "image_file": "ulf_193_labinh_gerola.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Φωτογραφία του ναού από τον G.Gerola"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Φωτογραφία του ναού από τον G.Gerola"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "275",
+        "poi_id": "240",
+        "image_order": "10",
+        "image_file": "ulf_194_labinh_16.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Παλιά φωτογραφία του ναού"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Παλιά φωτογραφία του ναού"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "276",
+        "poi_id": "240",
+        "image_order": "11",
+        "image_file": "ulf_195_IMG_1110.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Το λαξευτό θύρωμα του 19ου αιώνα"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Το λαξευτό θύρωμα του 19ου αιώνα"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "277",
+        "poi_id": "240",
+        "image_order": "2",
+        "image_file": "ulf_196_DSC04591.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η ανατολική όψη του μνημείου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η ανατολική όψη του μνημείου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "278",
+        "poi_id": "240",
+        "image_order": "1",
+        "image_file": "ulf_197_DSC01498.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Εξωτερική όψη του ναού"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Εξωτερική όψη του ναού"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "279",
+        "poi_id": "240",
+        "image_order": "3",
+        "image_file": "ulf_198_P8260168.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η δυτική όψη του ναού"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η δυτική όψη του ναού"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "280",
+        "poi_id": "240",
+        "image_order": "5",
+        "image_file": "ulf_199_DSC01507.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Λεπτομέρεια των εντοιχισμένων αγγείων στην αψίδα του ναού"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Λεπτομέρεια των εντοιχισμένων αγγείων στην αψίδα του ναού"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "281",
+        "poi_id": "210",
+        "image_order": "2",
+        "image_file": "ulf_200_naos_305.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Άποψη του ναού πριν την αφαίρεση των επιχρισμάτων"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του ναού πριν την αφαίρεση των επιχρισμάτων"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "282",
+        "poi_id": "210",
+        "image_order": "3",
+        "image_file": "ulf_201_naos_208.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η αποκάλυψη των τοιχογραφιών κάτω από τα ασβεστεπιχρίσματα"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η αποκάλυψη των τοιχογραφιών κάτω από τα ασβεστεπιχρίσματα"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "283",
+        "poi_id": "210",
+        "image_order": "4",
+        "image_file": "ulf_202_myriokefala_165.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Η Προδοσία"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Η Προδοσία"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "284",
+        "poi_id": "210",
+        "image_order": "6",
+        "image_file": "ulf_204_myriokefala_187.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ο Επιτάφιος Θρήνος"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο Επιτάφιος Θρήνος"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "285",
+        "poi_id": "210",
+        "image_order": "1",
+        "image_file": "ulf_205_myriokefala_134.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Άγιος"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άγιος"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "286",
+        "poi_id": "210",
+        "image_order": "7",
+        "image_file": "ulf_206_myriokefala_142.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Συλλειτουργών ιεράρχης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Συλλειτουργών ιεράρχης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "287",
+        "poi_id": "210",
+        "image_order": "5",
+        "image_file": "ulf_207_myriokefala_218.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Ο άγιος Ιωάννης ο Χρυσόστομος"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο άγιος Ιωάννης ο Χρυσόστομος"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "288",
+        "poi_id": "234",
+        "image_order": "4",
+        "image_file": "ulf_208_DSCN0029.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Κτήρια του μοναστηριού πριν τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Κτήρια του μοναστηριού πριν τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "289",
+        "poi_id": "234",
+        "image_order": "3",
+        "image_file": "ulf_209_DSCN0063.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Κτήρια του μοναστηριού πριν τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Κτήρια του μοναστηριού πριν τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "290",
+        "poi_id": "234",
+        "image_order": "10",
+        "image_file": "ulf_210_arxaggelou_63.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Το τοξωτό θύρωμα της εισόδου, πριν τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Το τοξωτό θύρωμα της εισόδου, πριν τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "291",
+        "poi_id": "234",
+        "image_order": "9",
+        "image_file": "ulf_211_arxaggelou_68.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Το συγκρότημα πριν τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Το συγκρότημα πριν τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "292",
+        "poi_id": "234",
+        "image_order": "8",
+        "image_file": "ulf_212_arxaggelou_15.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Το πηγάδι της Μονής, πριν τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Το πηγάδι της Μονής, πριν τις εργασίες αποκατάστασης"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "293",
+        "poi_id": "221",
+        "image_order": "4",
+        "image_file": "ulf_213_libadia_pfa_1.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Παλιά φωτογραφία του μνημείου, δυτική όψη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Παλιά φωτογραφία του μνημείου, δυτική όψη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "294",
+        "poi_id": "221",
+        "image_order": "3",
+        "image_file": "ulf_214_libadia_pfa_2.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Παλιά φωτογραφία του μνημείου, ανατολική όψη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Παλιά φωτογραφία του μνημείου, ανατολική όψη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "295",
+        "poi_id": "221",
+        "image_order": "1",
+        "image_file": "ulf_215_libadia_4.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Νάρθηκας. Εγχάρακτη επιγραφή του ιστοριογράφου Μανουήλ"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Νάρθηκας. Εγχάρακτη επιγραφή του ιστοριογράφου Μανουήλ"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "296",
+        "poi_id": "221",
+        "image_order": "8",
+        "image_file": "ulf_216_libadia_13.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Υπέρθυρο με οικόσημο"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Υπέρθυρο με οικόσημο"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "297",
+        "poi_id": "221",
+        "image_order": "2",
+        "image_file": "ulf_217_libadia_5.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Νάρθηκας. Το γραπτό οικόσημο των Καλλεργών"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Νάρθηκας. Το γραπτό οικόσημο των Καλλεργών"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "298",
+        "poi_id": "221",
+        "image_order": "1",
+        "image_file": "ulf_218_libadia_19.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Βόρειος ναός. Εγχάρακτη κτητορική επιγραφή"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Βόρειος ναός. Εγχάρακτη κτητορική επιγραφή σε λίθο του ενισχυτικού τόξου της καμάρας."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "619",
+        "poi_id": "613",
+        "image_order": "1",
+        "image_file": "ulf_578_1.1_tafoi_anatolika_tekmirio194.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Άποψη τμήματος της Ανατολικής συστάδας τάφων"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη τμήματος της Ανατολικής συστάδας τάφων.  ΥΜΙΙΙ νεκροταφείο  Αρμένων. Αεροφωτογραφία"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "620",
+        "poi_id": "616",
+        "image_order": "1",
+        "image_file": "ulf_579_1.3_tafoi_notia_tekmirio266.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία του νεκροταφείου και του δάσους"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία του νεκροταφείου και του δάσους. Νότια συστάδα τάφων στο ΥΜ νεκροταφείο των Αρμένων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "621",
+        "poi_id": "184",
+        "image_order": "1",
+        "image_file": "ulf_580_1.4_tafos24_tekmirio456.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Είσοδος και πρόσοψη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Είσοδος και πρόσοψη του Τάφου 24 στο ΥΜΙΙΙ νεκροταφείο Αρμένων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "622",
+        "poi_id": "184",
+        "image_order": "2",
+        "image_file": "ulf_581_1.4_tafos24_tekmirio459.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Εσωτερικό"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Εσωτερικό του Τάφου 24. ΥΜΙΙΙ νεκροταφείο Αρμένων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "623",
+        "poi_id": "182",
+        "image_order": "1",
+        "image_file": "ulf_582_1.5_tafos11_tekmirio467.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Εσωτερικό"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Εσωτερικό του Τάφου 11."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "624",
+        "poi_id": "182",
+        "image_order": "2",
+        "image_file": "ulf_583_1.5_tafos11_tekmirio468.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Πανοραμική λήψη εσωτερικού"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Εσωτερικό του Τάφου 11. ΥΜΙΙΙ νεκροταφείο Αρμένων. Πανοραμική λήψη."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "625",
+        "poi_id": "627",
+        "image_order": "1",
+        "image_file": "ulf_584_1.6_tafos55_tekmirio341.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Άποψη του δρόμου και της εισόδου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του δρόμου και της εισόδου του Τάφου 55. ΥΜΙΙΙ νεκροταφείο Αρμένων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "626",
+        "poi_id": "627",
+        "image_order": "2",
+        "image_file": "ulf_585_1.6_tafos55_tekmirio393.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Κλίμακα καθόδου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Κλίμακα καθόδου στο δρόμο του Τάφου 55. ΥΜΙΙΙ νεκροταφείο Αρμένων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "628",
+        "poi_id": "186",
+        "image_order": "1",
+        "image_file": "ulf_586_1.7_tafos146.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Άποψη του δρόμου και της εισόδου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του δρόμου και της εισόδου του Τάφου 146.ΥΜΙΙΙ νεκροταφείο Αρμένων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "629",
+        "poi_id": "185",
+        "image_order": "1",
+        "image_file": "ulf_587_1.8_tafos159_tekmirio461.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Πανοραμική λήψη εσωτερικού"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Εσωτερικό του Τάφου 159. ΥΜΙΙΙ νεκροταφείο Αρμένων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "630",
+        "poi_id": "187",
+        "image_order": "1",
+        "image_file": "ulf_588_1.9_tafos200.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Άποψη του δρόμου και της εισόδου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του δρόμου και της εισόδου του εν μέρει θολωτού Τάφου 200. ΥΜΙΙΙ νεκροταφείο"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "631",
+        "poi_id": "189",
+        "image_order": "1",
+        "image_file": "ulf_589_1.11_minoiko_monopati_tekmirio430.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τμήμα"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τμήμα του Μινωικού μονοπατιού. ΥΜΙΙΙ νεκροταφείο Αρμένων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "632",
+        "poi_id": "634",
+        "image_order": "1",
+        "image_file": "ulf_590_1.12_apothetes_dimosieusi.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τελετουργικοί αποθέτες"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τελετουργικοί αποθέτες στην ανατολική συστάδα τάφων. ΥΜΙΙΙ νεκροταφείο Αρμένων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "635",
+        "poi_id": "192",
+        "image_order": "1",
+        "image_file": "ulf_591_1.13_patitiria.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Περιοχή με ληνούς"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Περιοχή με ληνούς εντός του ΥΜΙΙΙ νεκροταφείου των Αρμένων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "636",
+        "poi_id": "190",
+        "image_order": "1",
+        "image_file": "ulf_592_1.15_othomanikos_dromos.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Άποψη περιοχής"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη της περιοχής που εντοπίζεται ο Οθωμανικός/ Γερμανικός δρόμος. ΥΜΙΙΙ νεκροταφείο Αρμένων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "649",
+        "poi_id": "641",
+        "image_order": "1",
+        "image_file": "ulf_593_2.1_kokkinos_xarakas_tekmirio1784.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Κόκκινος χάρακας"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Ο Κόκκινος Χάρακας και τα κτηριακά κατάλοιπα πέριξ αυτού. Αεροφωτογραφία."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "650",
+        "poi_id": "645",
+        "image_order": "1",
+        "image_file": "ulf_594_2.5_notio_sugkrotima_tekmirio1796.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία του Δυτικού και του Νότιου συγκροτήματος και της κεντρικής αυλής  στο Μοναστηράκι."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "651",
+        "poi_id": "647",
+        "image_order": "1",
+        "image_file": "ulf_595_2.7_emvlimatiko_ktirio_tekmirio1790.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Συγκρότημα"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Το Δυτικό συγκρότημα στο Μοναστηράκι και ο Χώρος με τον κίονα. Άποψη από τα Βόρεια."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "652",
+        "poi_id": "642",
+        "image_order": "1",
+        "image_file": "ulf_596_2.2_anatoliko_sugkrotima_tekmirio1799_edit.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία του αρχαιολογικού χώρου στο Μοναστηράκι."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "653",
+        "poi_id": "643",
+        "image_order": "1",
+        "image_file": "ulf_597_2.3_dutiko_sugkrotima_tekmirio1779_edit.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία του αρχαιολογικού χώρου στο Μοναστηράκι. Λήψη από τα Βόρεια."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "654",
+        "poi_id": "644",
+        "image_order": "1",
+        "image_file": "ulf_598_2.4_kentriki_auli_tekmirio1793_edit.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Άποψη από βόρεια"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη του Δυτικού συγκροτήματος και της κεντρικής αυλής από τα Βόρεια."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "655",
+        "poi_id": "646",
+        "image_order": "1",
+        "image_file": "ulf_599_2.6_ktirio_sfragismaton_tekmirio1796_edit.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία του Δυτικού και του Νότιου συγκροτήματος. Διακρίνεται το Κτήριο όπου εντοπίστηκε το πρώτο αρχείο σφραγισμάτων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "698",
+        "poi_id": "181",
+        "image_order": "1",
+        "image_file": "ulf_43_EFA RETHIMNOU -2023-478.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Νεκροταφείο Αρμένων"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη της νεκρόπολης των Αρμένων από ψηλά."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "699",
+        "poi_id": "177",
+        "image_order": "1",
+        "image_file": "ulf_89_EFA RETHIMNOU -2023-915.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Αρχαία Ζώμινθος"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Εναέρια άποψη της ορεινής μινωικής εγκατάστασης με το μνημειώδες κτήριο που κάλυπτε έκταση 1360 τετραγωνικών μέτρων."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "700",
+        "poi_id": "639",
+        "image_order": "1",
+        "image_file": "ulf_48_EFA RETHIMNOU -2023-1779.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Μοναστηράκι Αμαρίου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία του αρχαιολογικού χώρου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "701",
+        "poi_id": "179",
+        "image_order": "1",
+        "image_file": "ulf_36_EFA RETHIMNOU -2023-154.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Αρχαιολογικός Χώρος Αποδούλου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη τμήματος του αρχαιολογικού χώρου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "703",
+        "poi_id": "702",
+        "image_order": "1",
+        "image_file": "ulf_413_EFA-RETHIMNOU -2023-771_web.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τοιχογραφία"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Συλλειτουργούντες ιεράρχες, αποτοιχισμένη τοιχογραφία από τον ναό της Παναγίας στην Πατσώ."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "711",
+        "poi_id": "176",
+        "image_order": "1",
+        "image_file": "ulf_43_EFA RETHIMNOU -2023-478.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Νεκροταφείο Αρμένων"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη της νεκρόπολης των Αρμένων από ψηλά."
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "712",
+        "poi_id": "178",
+        "image_order": "1",
+        "image_file": "ulf_48_EFA RETHIMNOU -2023-1779.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Μοναστηράκι Αμαρίου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία του αρχαιολογικού χώρου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "718",
+        "poi_id": "714",
+        "image_order": "1",
+        "image_file": "ulf_551_EFA-RETHIMNOU -2023-813_web.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία του Αρχαιολογικού Χώρου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Αεροφωτογραφία του Αρχαιολογικού Χώρου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "719",
+        "poi_id": "715",
+        "image_order": "1",
+        "image_file": "ulf_552_EFA-RETHIMNOU -2023-818_web.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Αρχαιολογικός χώρος (Ζώμινθος)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Αρχαιολογικός χώρος (Ζώμινθος)"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "720",
+        "poi_id": "716",
+        "image_order": "1",
+        "image_file": "ulf_558_EFA-RETHIMNOU -2023-827_web.jpg",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Άποψη τμήματος του αρχαιολογικού χώρου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Άποψη τμήματος του αρχαιολογικού χώρου"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    },
+    {
+        "image_id": "721",
+        "poi_id": "717",
+        "image_order": "1",
+        "image_file": "ulf_91_EFA RETHIMNOU -2023-960.JPG",
+        "image_title": [
+            {
+                "key": "gr",
+                "text": "Τάφος Γιάννη Σακελλαράκη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_label": [
+            {
+                "key": "gr",
+                "text": "Τάφος Γιάννη Σακελλαράκη"
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ],
+        "image_source": [
+            {
+                "key": "gr",
+                "text": ""
+            },
+            {
+                "key": "en",
+                "text": ""
+            }
+        ]
+    }
+]

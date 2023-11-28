@@ -1,0 +1,380 @@
+[
+	{
+		"info_key": "help_1a",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Αλλαγή γλώσσας"
+			},
+			{
+				"key": "en",
+				"text": "Change language"
+			}
+		]
+	},
+	{
+		"info_key": "help_1b",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Αλλαγή μεγέθους γραμματοσειράς"
+			},
+			{
+				"key": "en",
+				"text": "Change font size"
+			}
+		]
+	},
+	{
+		"info_key": "help_1c",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Πληροφορίες εφαρμογής"
+			},
+			{
+				"key": "en",
+				"text": "Application information"
+			}
+		]
+	},
+	{
+		"info_key": "help_2a",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Περιηγηθείτε με τη βοήθεια εικονικού ξεναγού"
+			},
+			{
+				"key": "en",
+				"text": "Navigate with the help of a virtual tour guide"
+			}
+		]
+	},
+	{
+		"info_key": "help_2b",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Ενεργοποίηση της λειτουργίας Επαυξημένης Πραγματικότητας"
+			},
+			{
+				"key": "en",
+				"text": "Activate Augmented Reality mode"
+			}
+		]
+	},
+	{
+		"info_key": "help_3a",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Περιηγηθείτε επιτόπια ή απομακρυσμένα"
+			},
+			{
+				"key": "en",
+				"text": "Navigate on_site or remotely"
+			}
+		]
+	},
+	{
+		"info_key": "help_3b",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Αλλαγή εμφάνισης χάρτη"
+			},
+			{
+				"key": "en",
+				"text": "Change map appearance"
+			}
+		]
+	},
+	{
+		"info_key": "help_3b1",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Δορυφόρος"
+			},
+			{
+				"key": "en",
+				"text": "Satellite"
+			}
+		]
+	},
+	{
+		"info_key": "help_3b2",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Απλός"
+			},
+			{
+				"key": "en",
+				"text": "Simple"
+			}
+		]
+	},
+	{
+		"info_key": "help_3c",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Κάτοψη"
+			},
+			{
+				"key": "en",
+				"text": "Ground plan"
+			}
+		]
+	},
+	{
+		"info_key": "help_4a",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Κλείσιμο εφαρμογής"
+			},
+			{
+				"key": "en",
+				"text": "Close app"
+			}
+		]
+	},
+	{
+		"info_key": "help_4b",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Επιλέξτε περιοχή ξενάγησης"
+			},
+			{
+				"key": "en",
+				"text": "Select area"
+			}
+		]
+	},
+	{
+		"info_key": "help_5",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Επιλέξτε χρονική περίοδο"
+			},
+			{
+				"key": "en",
+				"text": "Select time period"
+			}
+		]
+	},
+	{
+		"info_key": "help_6",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Επιλέξτε σημείο ενδιαφέροντος"
+			},
+			{
+				"key": "en",
+				"text": "Select point of interest"
+			}
+		]
+	},
+	{
+		"info_key": "_7_GpsMap_1",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Βρίσκεστε εδώ"
+			},
+			{
+				"key": "en",
+				"text": "You are here"
+			}
+		]
+	},
+	{
+		"info_key": "_7_GpsMap_2",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Κύκλος ένδειξης εμβέλειας ενεργοποίησης σημείου"
+			},
+			{
+				"key": "en",
+				"text": "Indicator circle of point activation range"
+			}
+		]
+	},
+	{
+		"info_key": "_8_Menu2_1",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Επιλέξτε χρονική περίοδο"
+			},
+			{
+				"key": "en",
+				"text": "Select time period"
+			}
+		]
+	},
+	{
+		"info_key": "_9_Menu2_2_b",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Προσαρμόστε την εμβέλεια ενεργοποίησης σημείου"
+			},
+			{
+				"key": "en",
+				"text": "Adjust point activation range"
+			}
+		]
+	},
+	{
+		"info_key": "_10_Menu2_3",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Ενεργοποίηση πληροφορίας μέσω beacons"
+			},
+			{
+				"key": "en",
+				"text": "Activation of information through beacons"
+			}
+		]
+	},
+	{
+		"info_key": "help_7a",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Μενού"
+			},
+			{
+				"key": "en",
+				"text": "Menu"
+			}
+		]
+	},
+	{
+		"info_key": "help_7b",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Επιστροφή στην αρχική οθόνη"
+			},
+			{
+				"key": "en",
+				"text": "Return to home screen"
+			}
+		]
+	},
+	{
+		"info_key": "help_7c",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Πίσω"
+			},
+			{
+				"key": "en",
+				"text": "Back"
+			}
+		]
+	},
+	{
+		"info_key": "help_7d",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Κλείσιμο"
+			},
+			{
+				"key": "en",
+				"text": "Close"
+			}
+		]
+	},
+	{
+		"info_key": "help_7e",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Περισσότερα"
+			},
+			{
+				"key": "en",
+				"text": "More"
+			}
+		]
+	},
+	{
+		"info_key": "_12_SpotDetails_a",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Λιγότερα"
+			},
+			{
+				"key": "en",
+				"text": "Less"
+			}
+		]
+	},
+	{
+		"info_key": "_12_SpotDetails_b",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Φωτογραφίες"
+			},
+			{
+				"key": "en",
+				"text": "Photos"
+			}
+		]
+	},
+	{
+		"info_key": "_12_SpotDetails_c",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Αφήγηση"
+			},
+			{
+				"key": "en",
+				"text": "Narration"
+			}
+		]
+	}
+]
