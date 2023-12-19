@@ -229,6 +229,19 @@ MonoBehaviour:
       text: 'GPS is inaccurate!
 
         Allow app to attempt to locate you position?'
+  - info_key: near_new_poi
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u0392\u03C1\u03AF\u03C3\u03BA\u03B5\u03C3\u03C4\u03B5 \u03BA\u03BF\u03BD\u03C4\u03AC
+        \u03C3\u03B5 \u03BD\u03AD\u03BF \u03C3\u03B7\u03BC\u03B5\u03AF\u03BF \u03B5\u03BD\u03B4\u03B9\u03B1\u03C6\u03AD\u03C1\u03BF\u03BD\u03C4\u03BF\u03C2.\n\u039A\u03BB\u03B5\u03AF\u03C3\u03C4\u03B5
+        \u03C4\u03B9\u03C2 \u03C0\u03BB\u03B7\u03C1\u03BF\u03C6\u03BF\u03C1\u03AF\u03B5\u03C2
+        \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03B5\u03BD\u03B5\u03C1\u03B3\u03BF\u03C0\u03BF\u03B9\u03B7\u03B8\u03B5\u03AF."
+    - key: en
+      text: 'You are near a new point of interest.
+
+        Close info to activate
+        it.'
   - info_key: new_update
     info_icon: 
     info_text:
@@ -362,3 +375,14 @@ MonoBehaviour:
       text: "\u03B5\u03BD\u03B7\u03BC\u03AD\u03C1\u03C9\u03C3\u03B7 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03C9\u03BD"
     - key: en
       text: updating data
+  - info_key: update_completed_request
+    info_icon: 
+    info_text:
+    - key: gr
+      text: "\u039F\u03B9 \u03B5\u03BD\u03B7\u03BC\u03B5\u03C1\u03CE\u03C3\u03B5\u03B9\u03C2
+        \u03BF\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03CE\u03B8\u03B7\u03BA\u03B1\u03BD.
+        \u0395\u03C0\u03B9\u03C3\u03C4\u03C1\u03AD\u03C8\u03C4\u03B5 \u03C3\u03C4\u03BF
+        \u03BC\u03B5\u03BD\u03BF\u03CD \u03B3\u03B9\u03B1 \u03BD\u03B1 \u03B5\u03C6\u03B1\u03C1\u03BC\u03CC\u03C3\u03B5\u03C4\u03B5
+        \u03CC\u03BB\u03B5\u03C2 \u03C4\u03B9\u03C2 \u03B1\u03BB\u03BB\u03B1\u03B3\u03AD\u03C2."
+    - key: en
+      text: Updates completed. Return to menu to apply all changes.

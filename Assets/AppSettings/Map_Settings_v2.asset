@@ -56,6 +56,7 @@ MonoBehaviour:
     allowTriggeredPoiToBeTriggeredAgain: 1
     enablePoiInfoIfUserIsNear: 1
     checkPoiInfoIfNarrationPlaying: 1
+    HidePoiInfoIfUserIsFar: 0
   useCustomAreaZoom: 1
   zoomAreaManual: 12
   useSmoothnessForAllAreasView: 1

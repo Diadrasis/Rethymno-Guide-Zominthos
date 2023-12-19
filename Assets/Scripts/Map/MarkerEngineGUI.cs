@@ -20,7 +20,7 @@ namespace Diadrasis.Rethymno
 		public GameObject prefabMarkerAreaGui, prefabUserMarkerGui;
 
 		private MarkerInstance _markerGuiOnSiteNear;
-        private MarkerInstance markerUser;
+        private MarkerInstance markerUser, _markerMessage;
 
         [Space]
         public bool UseOrderForPois;
@@ -54,17 +54,20 @@ namespace Diadrasis.Rethymno
             {
                 if (engineManager.InfoIsNotClosed())
                 {
-                    if (!engineManager.PoiSettings().allowPoiSelectionIfInfoPanelIsOpen) { return; }
-                    float _dist = OnlineMapsUtils.DistanceBetweenPoints(pos, _markerGuiOnSiteNear.data.pos).magnitude * 1000f;
-                    if (_dist > allowedDistance)
+                    // if (!engineManager.PoiSettings().allowPoiSelectionIfInfoPanelIsOpen) { return; }
+                    if (engineManager.PoiSettings().HidePoiInfoIfUserIsFar)
                     {
-                        _markerGuiOnSiteNear = null;
-                        //close panel
-                        EventHolder.OnInfoHide?.Invoke();
+                        float _dist = OnlineMapsUtils.DistanceBetweenPoints(pos, _markerGuiOnSiteNear.data.pos).magnitude * 1000f;
+                        if (_dist > allowedDistance)
+                        {
+                            _markerGuiOnSiteNear = null;
+                            //close panel
+                            EventHolder.OnInfoHide?.Invoke();
 
-                        SetPoiIconsToDefault();
+                            SetPoiIconsToDefault();
+                        }
+                        return;
                     }
-                    return;
                 }
             }
 
@@ -111,11 +114,31 @@ namespace Diadrasis.Rethymno
 
             //in range
             if (distance < allowedDistance)
-            {               
+            {
                 if (!engineManager.PoiSettings().allowPoiSelectionIfInfoPanelIsOpen)
                 {
                     //if full panel enabled do not select the new poi
-                    if (engineManager.InfoIsNotClosed()) return;
+                    // if (engineManager.InfoIsNotClosed()) return;
+
+                    //if info panel is open
+                    if (engineManager.infoPanelState != EnumsHolder.InfoPanelState.Closed)
+                    {
+                        bool isNewpoiTrigger = true;
+                        if (_markerMessage != null && _markerMessage.data != null)
+                        {
+                            PoiEntity p = _markerMessage.data.poiEntity;
+                            isNewpoiTrigger = p != null && p.ID != _marker.data.poiEntity.ID;
+                        }
+
+                        if (isNewpoiTrigger)
+                        {
+                            //show message to user
+                            EventHolder.OnPoiTriggeredWhileOnInfoView?.Invoke();
+                        }
+
+                        _markerMessage = _marker;
+                        return;
+                    }
                 }
 
                 _markerGuiOnSiteNear = _marker;
@@ -135,6 +158,7 @@ namespace Diadrasis.Rethymno
             }
             else//check if info is open and close it
             {
+                if (!engineManager.PoiSettings().HidePoiInfoIfUserIsFar) return;
                 //if route or period panel selection is closed
                 //and the pois are visible on map
                 if (engineManager.infoPanelState == EnumsHolder.InfoPanelState.Closed) return;

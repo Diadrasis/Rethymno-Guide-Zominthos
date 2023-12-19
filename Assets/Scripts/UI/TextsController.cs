@@ -36,7 +36,7 @@ namespace Diadrasis.Rethymno
 			EventHolder.OnFontSizeMedium += SetFontSizeMedium;
 			EventHolder.OnFontSizeLarge += SetFontSizeBig;
 
-            txtLabel.text = "A";
+            txtLabel.text = "";
         }
 
 		void ChangeFontSize()
@@ -62,9 +62,9 @@ namespace Diadrasis.Rethymno
         }
 
 
-        void SetFontSizeNormal() { fontSizeState = EnumsHolder.FontSizeState.NORMAL;   txtLabel.text = "A"; }
-        void SetFontSizeMedium() { fontSizeState = EnumsHolder.FontSizeState.MEDIUM;  txtLabel.text = "A<sup>+"; }
-        void SetFontSizeBig() { fontSizeState = EnumsHolder.FontSizeState.LARGE;  txtLabel.text = "A<sup>+<space=10>+"; }
+        void SetFontSizeNormal() { fontSizeState = EnumsHolder.FontSizeState.NORMAL;   txtLabel.text = ""; }
+        void SetFontSizeMedium() { fontSizeState = EnumsHolder.FontSizeState.MEDIUM;  txtLabel.text = "<sup>+"; }
+        void SetFontSizeBig() { fontSizeState = EnumsHolder.FontSizeState.LARGE;  txtLabel.text = "<sup>+<space=15>+"; }
 
         //void Update()
         //{

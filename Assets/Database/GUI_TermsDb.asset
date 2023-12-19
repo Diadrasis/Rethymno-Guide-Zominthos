@@ -98,9 +98,11 @@ MonoBehaviour:
     info_text:
     - key: gr
       text: "\u0391\u03C0\u03CC\u03C3\u03C4\u03B1\u03C3\u03B7 \u03B1\u03C0\u03BF
-        POI"
+        \u03C4\u03BF\n\u03A3\u03B7\u03BC\u03B5\u03AF\u03BF \u0395\u03BD\u03B4\u03B9\u03B1\u03C6\u03AD\u03C1\u03BF\u03BD\u03C4\u03BF\u03C2"
     - key: en
-      text: POI Distance
+      text: 'Distance from the
+
+        Point of Interest'
   - info_key: beacons_mode
     info_icon: 
     info_text:

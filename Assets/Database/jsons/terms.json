@@ -143,11 +143,11 @@
 		"info_text": [
 			{
 				"key": "gr",
-				"text": "Απόσταση απο POI"
+				"text": "Απόσταση απο το\nΣημείο Ενδιαφέροντος"
 			},
 			{
 				"key": "en",
-				"text": "POI Distance"
+				"text": "Distance from the\nPoint of Interest"
 			}
 		]
 	},

@@ -51,6 +51,8 @@ namespace Diadrasis.Rethymno
         public bool enablePoiInfoIfUserIsNear = true;//show info title
         [Tooltip("[Auto] Trigger poi info if narration is not playing")]
         public bool checkPoiInfoIfNarrationPlaying = true;//show info title
+        [Header("[On-Site] Αν απομακρυνθεί ο χρήστης απο το poi να κλείσει η πληροφορία")]
+        public bool HidePoiInfoIfUserIsFar;
 
 
         public float GetNativeMarkerScale()

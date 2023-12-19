@@ -170,7 +170,7 @@ namespace Diadrasis.Rethymno
         /// hardcoded from route_types json file
         /// </summary>
         /// <returns>if type id is 430</returns>
-        public bool RouteIsMuseum() { return routeSelected == null ? false : routeSelected.route.route_type_id == 430; }
+        public bool RouteIsMuseum() { return false; }// routeSelected == null ? false : routeSelected.route.route_type_id == 430; }
 
         void OnRouteSelected(RouteEntity routeEntity)
         {

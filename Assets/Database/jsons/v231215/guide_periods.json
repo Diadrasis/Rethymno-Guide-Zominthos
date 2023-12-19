@@ -1,0 +1,59 @@
+[
+    {
+        "period_id": "193",
+        "period_icon": "ulf_1128_iconMinoan.png",
+        "period_color": "",
+        "period_poi_icon": "ulf_1128_iconMinoan.png",
+        "period_poi_icon_active": "ulf_1130_IconMinoan_Active.png",
+        "period_poi_icon_visited": "ulf_1131_IconMinoan_Visited.png",
+        "period_order": "1",
+        "period_title": [
+            {
+                "key": "gr",
+                "text": "Προιστορική"
+            },
+            {
+                "key": "en",
+                "text": "Prehistoric"
+            }
+        ]
+    },
+    {
+        "period_id": "196",
+        "period_icon": "ulf_1136_iconModern.png",
+        "period_color": "",
+        "period_poi_icon": "ulf_1136_iconModern.png",
+        "period_poi_icon_active": "ulf_1137_iconModernActive.png",
+        "period_poi_icon_visited": "ulf_1138_iconModernVisited.png",
+        "period_order": "3",
+        "period_title": [
+            {
+                "key": "gr",
+                "text": "Νεότερη"
+            },
+            {
+                "key": "en",
+                "text": "Modern"
+            }
+        ]
+    },
+    {
+        "period_id": "197",
+        "period_icon": "ulf_1132_IconByzantineColor.png",
+        "period_color": "",
+        "period_poi_icon": "ulf_1132_IconByzantineColor.png",
+        "period_poi_icon_active": "ulf_1133_IconByzantine_Active.png",
+        "period_poi_icon_visited": "ulf_1134_IconByzantine_Visited.png",
+        "period_order": "2",
+        "period_title": [
+            {
+                "key": "gr",
+                "text": "Βυζαντινή"
+            },
+            {
+                "key": "en",
+                "text": "Byzantine"
+            }
+        ]
+    }
+]

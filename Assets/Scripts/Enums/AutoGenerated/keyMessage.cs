@@ -27,6 +27,7 @@ namespace Diadrasis.Rethymno
 		gps_failed,
 		gps_initialized,
 		gps_initialize_failed,
+		near_new_poi,
 		new_update,
 		carrier_network,
 		calculating_size,
@@ -40,7 +41,8 @@ namespace Diadrasis.Rethymno
 		updating_narrations,
 		updating_videos,
 		downloading_data,
-		updating_data
+		updating_data,
+		update_completed_request
 	}
 
 }

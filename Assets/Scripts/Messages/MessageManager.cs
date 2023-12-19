@@ -78,6 +78,7 @@ namespace Diadrasis.Rethymno
 
             fitter.IgnoreFitHeight = false;
 
+            EventHolder.OnUpdateCompletedRequestUserToApplyChanges += OnUpdateCompletedRequestUserToApplyChanges;
             EventHolder.OnUpdateFinished += OnFirstUpdateFinished;
             EventHolder.OnUpdateFailed += ShowMessageUpdateFailed;
             EventHolder.OnUpdateAvailable += OnUpdateAvailable;
@@ -121,6 +122,49 @@ namespace Diadrasis.Rethymno
             EventHolder.OnMessageHide += HideMessage;
             EventHolder.OnGpsNear += OnGpsNear;
             EventHolder.OnGpsOn += OnGpsNear;
+            EventHolder.OnTourChanged += OnTourChanged;
+
+            EventHolder.OnPoiTriggeredWhileOnInfoView += OnPoiTriggeredWhileOnInfoView;
+        }
+
+        void OnPoiTriggeredWhileOnInfoView()
+        {
+            btnCancel.onClick.RemoveAllListeners();
+            btnCancel.onClick.AddListener(HideMessage);
+
+            txtCancelBtn.text = GetTermText(keyMessage.button_ok.ToString());
+
+            _title = GetTermText(keyMessage.near_new_poi.ToString());
+            _desc = string.Empty;
+            _action = string.Empty;
+
+            keyMessageAction = keyMessage.NULL;
+            keyMessageCancel = keyMessage.button_ok;
+            keyMessageTitle = keyMessage.near_new_poi;
+            keyMessageDesc = keyMessage.NULL;
+
+            ShowMessage(_title, _desc, _action);
+        }
+
+        void OnUpdateCompletedRequestUserToApplyChanges()
+        {
+            btnCancel.onClick.RemoveAllListeners();
+            btnCancel.onClick.AddListener(HideMessage);
+            btnCancel.onClick.AddListener(() => EventHolder.OnUpdateFinished?.Invoke());
+            btnAction.onClick.RemoveAllListeners();
+
+            txtCancelBtn.text = GetTermText(keyMessage.button_ok.ToString());
+
+            _title = GetTermText(keyMessage.update_completed_request.ToString());
+            _desc = string.Empty;
+            _action = string.Empty;
+
+            keyMessageAction = keyMessage.NULL;
+            keyMessageCancel = keyMessage.button_ok;
+            keyMessageTitle = keyMessage.update_completed_request;
+            keyMessageDesc = keyMessage.NULL;
+
+            ShowMessage(_title, _desc, _action);
         }
 
         void OnMessageShow(bool val)
@@ -132,8 +176,6 @@ namespace Diadrasis.Rethymno
         void OnGpsNear(int draft)
         {
             if (stateAreaViews <= 1) return;
-
-            // if (Application.isEditor) Debug.Log("OnGpsNear");
 
             if (firstTimeGpsMessage == 0)
             {
@@ -377,6 +419,10 @@ namespace Diadrasis.Rethymno
 
         void UserHasChoosedTourMode() { userChooseTourMode = true; }
 
+        void OnTourChanged(EnumsHolder.TourMode mode)
+        {
+            userChooseTourMode = false;
+        }
 
         //first time entrance
         void CheckGpsStatus()

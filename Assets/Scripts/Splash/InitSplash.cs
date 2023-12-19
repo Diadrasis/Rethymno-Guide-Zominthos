@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using StaGeGames.BestFit;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
@@ -29,22 +30,19 @@ namespace Diadrasis.Rethymno
 
         WaitForSeconds waitForAnimation = new WaitForSeconds(0.7f);
 
+        public List<BestFitter> infoFitters = new List<BestFitter>();
+        public ScrollRect scrollRectInfo;
+
         private void Awake()
         {
             if (canvasSpalsh == null) return;
 
+            infoFitters = panelInfo.GetComponentsInChildren<BestFitter>().ToList();
             DontDestroyOnLoad(this);
-            //Screen.orientation = ScreenOrientation.LandscapeLeft;
             if (isStarted == 0) Init();
-
             if (btnHideSplash) btnHideSplash.onClick.AddListener(HideAsInfo);
-
+            infoFitters.ForEach(b => b.Init());
             panelInfo.SetActive(false);
-        }
-
-        private void Start()
-        {
-            
         }
 
         public bool TryInit(bool isQuitting)
@@ -60,7 +58,9 @@ namespace Diadrasis.Rethymno
             canvasSpalsh.gameObject.SetActive(true);
             panelSplash.SetActive(false);
             panelInfo.SetActive(true);
+            infoFitters.ForEach(b => b.Init());
             animInfoPanel.SetBool("show", true);
+            scrollRectInfo.verticalNormalizedPosition = 1f;
             if (infoAnimators.Count > 0)
                 StartCoroutine(DelayShowInfoLogos());
         }
@@ -69,6 +69,7 @@ namespace Diadrasis.Rethymno
         {
             yield return new WaitForSeconds(0.7f);
             infoAnimators.ForEach(b => b.SetBool("show", true));
+            infoFitters.ForEach(b => b.Init());
             yield return new WaitForSeconds(0.7f);
             btnHideSplash.interactable = true;
             yield break;

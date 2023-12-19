@@ -56,6 +56,9 @@ namespace Diadrasis.Rethymno
         [ReadOnly]
         public bool IsMR_Exists, IsAR_Exists;
 
+        [Space]
+        public TMPro.TextMeshProUGUI textAppVersion;
+
         //textLangLabel
         void OnLanguageChanged()
         {
@@ -168,6 +171,8 @@ namespace Diadrasis.Rethymno
 
         IEnumerator Start()
 		{
+            textAppVersion.text = "v"+Application.version;
+
             uiControl = FindObjectOfType<UIController>();
 
             EventHolder.OnLanguageChanged += OnLanguageChanged;

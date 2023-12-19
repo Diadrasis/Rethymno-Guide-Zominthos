@@ -194,5 +194,19 @@
 				"text": "updating data"
 			}
 		]
+	},
+	{
+		"info_key": "update_completed_request",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Οι ενημερώσεις ολοκληρώθηκαν. Επιστρέψτε στο μενού για να εφαρμόσετε όλες τις αλλαγές."
+			},
+			{
+				"key": "en",
+				"text": "Updates completed. Return to menu to apply all changes."
+			}
+		]
 	}
 ]

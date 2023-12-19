@@ -196,7 +196,7 @@ namespace Diadrasis.Rethymno
             {
                 imagesFilenames.AddToList(areaEntity.area.area_icon);
                 imagesFilenames.AddToList(areaEntity.area.area_image);
-                myImages = cImages.FindAll(b => b.poi_id == areaEntity.ID);
+                myImages = cImages.FindAll(b => b.ref_id == areaEntity.ID);
 
                 if (myImages.Count > 0)
                 {
@@ -214,7 +214,7 @@ namespace Diadrasis.Rethymno
             {
                 imagesFilenames.AddToList(routeEntity.route.route_icon);
 
-                myImages = cImages.FindAll(b => b.poi_id == routeEntity.route.route_id);
+                myImages = cImages.FindAll(b => b.ref_id == routeEntity.route.route_id);
 
                 if (myImages.Count > 0)
                 {
@@ -372,6 +372,7 @@ namespace Diadrasis.Rethymno
             {
                 _result = JsonHelper.FixJson(jsonImages.text);
                 cImages = JsonHelper.FromJson<cImage>(_result).ToList();
+                cImages.ForEach(b => b.FixRefID());
             }
 
             //VIDEOS
@@ -433,7 +434,7 @@ namespace Diadrasis.Rethymno
             foreach (AreaEntity areaEntity in areaEntities)
             {
                 allFirstImages.AddToList(areaEntity.area.area_image);
-                myImages = cImages.FindAll(b => b.poi_id == areaEntity.ID);
+                myImages = cImages.FindAll(b => b.ref_id == areaEntity.ID);
 
                 if (myImages.Count > 0)
                 {
@@ -443,7 +444,7 @@ namespace Diadrasis.Rethymno
 
             foreach (RouteEntity routeEntity in routeEntities)
             {
-                myImages = cImages.FindAll(b => b.poi_id == routeEntity.route.route_id);
+                myImages = cImages.FindAll(b => b.ref_id == routeEntity.route.route_id);
 
                 if (myImages.Count > 0)
                 {
@@ -620,6 +621,7 @@ namespace Diadrasis.Rethymno
                     if (txt.IsNull()) return false;
                     _result = JsonHelper.FixJson(txt);
                     cImages = JsonHelper.FromJson<cImage>(_result).ToList();
+                    cImages.ForEach(b => b.FixRefID());
                 }
                 else
                     return false;
@@ -821,7 +823,7 @@ namespace Diadrasis.Rethymno
                 filenames.AddToList(area.area_icon);
                 filenames.AddToList(area.area_image);
 
-                List<cImage> myImages = _images.FindAll(b => b.poi_id == area.area_id);
+                List<cImage> myImages = _images.FindAll(b => b.ref_id == area.area_id);
                
                 //ADD AREA IMAGES
                 if (myImages.Count > 0)
@@ -838,7 +840,7 @@ namespace Diadrasis.Rethymno
                 foreach (cRoute route in areaRoutes)
                 {
 
-                    myImages = _images.FindAll(b => b.poi_id == route.route_id);
+                    myImages = _images.FindAll(b => b.ref_id == route.route_id);
 
                     //ADD ROUTE IMAGES
                     if (myImages.Count > 0)
@@ -857,7 +859,7 @@ namespace Diadrasis.Rethymno
 
                         foreach (cPoi p in poisOfPeriod)
                         {
-                            myImages = _images.FindAll(b => b.poi_id == p.poi_id);
+                            myImages = _images.FindAll(b => b.ref_id == p.poi_id);
 
                             cPeriod myPeriod = _periods.Find(b => b.period_id == p.period_id);
 
@@ -1029,7 +1031,7 @@ namespace Diadrasis.Rethymno
                 areaEntity.area = area;
                 areaEntity.CreateImages();
 
-                areaEntity.areaImages = cImages.FindAll(b => b.poi_id == area.area_id);
+                areaEntity.areaImages = cImages.FindAll(b => b.ref_id == area.area_id);
 
                 //get routes for this area
                 List<cRoute> _routes = cRoutes.FindAll(b => b.area_id == area.area_id);
@@ -1044,7 +1046,7 @@ namespace Diadrasis.Rethymno
                     routeEntity.route = route;
                     routeEntity.routeType = cRouteTypes.Find(b => b.route_type_id == route.route_type_id);
 
-                    routeEntity.routeImages = cImages.FindAll(b => b.poi_id == route.route_id);
+                    routeEntity.routeImages = cImages.FindAll(b => b.ref_id == route.route_id);
 
                     //group pois to periods
                     foreach (cPeriod _period in cPeriods)
@@ -1076,7 +1078,7 @@ namespace Diadrasis.Rethymno
                         {
                             PoiEntity poiEntity = new PoiEntity();
                             poiEntity.poi = p;
-                            poiEntity.images = cImages.FindAll(b => b.poi_id == p.poi_id);
+                            poiEntity.images = cImages.FindAll(b => b.ref_id == p.poi_id);
                             poiEntity.videos = cVideos.FindAll(b => b.poi_id == p.poi_id);
                             poiEntity.SetPoiIcons(_poiIcon, _poiIconActive, _poiIconVisited);
                             periodPoisEntity.poiEntities.Add(poiEntity);

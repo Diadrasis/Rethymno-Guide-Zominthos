@@ -70,10 +70,11 @@ namespace Diadrasis.Rethymno
 			OnAudioStop, OnAudioPause,
 			//MAP
 			OnAreasView, OnPoisView, OnMapSmoothMoveStart, OnMapSmoothMoveStop, OnPoiInfoClosed, OnSetPoiIconsToDefault,
-			//UI
-			OnInfoShowFull, OnInfoShowHalf, OnInfoHide, OnInfoRectRefresh, OnImageShowFull,
+            OnPoiTriggeredWhileOnInfoView,
+            //UI
+            OnInfoShowFull, OnInfoShowHalf, OnInfoHide, OnInfoRectRefresh, OnImageShowFull,
 			//Update - Internet
-			OnUpdateAvailable, OnUpdateStart, OnUpdateFinished, OnUpdateFailed, OnInternetLost, OnCarrierDataNetwork,
+			OnUpdateAvailable, OnUpdateStart, OnUpdateFinished, OnUpdateFailed, OnUpdateCompletedRequestUserToApplyChanges, OnInternetLost, OnCarrierDataNetwork,
 			OnFilesDownloadComplete, OnJsonsDownloadComplete,
             //Database
             OnDatabaseReaded,

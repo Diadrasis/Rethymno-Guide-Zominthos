@@ -238,7 +238,7 @@ namespace Diadrasis.Rethymno
                 imageFilesFromJson.AddToList(area.area_icon);
                 imageFilesFromJson.AddToList(area.area_image);
 
-                List<cImage> myImages = cImages.FindAll(b => b.poi_id == area.area_id);
+                List<cImage> myImages = cImages.FindAll(b => b.ref_id == area.area_id);
 
                 //ADD AREA IMAGES
                 if (myImages.Count > 0)
@@ -255,7 +255,7 @@ namespace Diadrasis.Rethymno
                 foreach (cRoute route in areaRoutes)
                 {
 
-                    myImages = cImages.FindAll(b => b.poi_id == route.route_id);
+                    myImages = cImages.FindAll(b => b.ref_id == route.route_id);
 
                     //ADD ROUTE IMAGES
                     if (myImages.Count > 0)
@@ -274,7 +274,7 @@ namespace Diadrasis.Rethymno
 
                         foreach (cPoi p in poisOfPeriod)
                         {
-                            myImages = cImages.FindAll(b => b.poi_id == p.poi_id);
+                            myImages = cImages.FindAll(b => b.ref_id == p.poi_id);
 
                             cPeriod myPeriod = cPeriods.Find(b => b.period_id == p.period_id);
 
@@ -497,7 +497,7 @@ namespace Diadrasis.Rethymno
 
             SaveLoadManager.SaveFirstTimeUpdated();
 
-            EventHolder.OnUpdateFinished?.Invoke();
+            EventHolder.OnUpdateCompletedRequestUserToApplyChanges?.Invoke();
 
             CanvasUpdate.SetActive(false);
             isCommunicatingWithServer = false;

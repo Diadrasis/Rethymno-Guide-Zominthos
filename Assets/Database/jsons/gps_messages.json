@@ -110,5 +110,19 @@
 				"text": "GPS is inaccurate!\nAllow app to attempt to locate you position?"
 			}
 		]
+	},
+	{
+		"info_key": "near_new_poi",
+		"info_icon": "",
+		"info_text": [
+			{
+				"key": "gr",
+				"text": "Βρίσκεστε κοντά σε νέο σημείο ενδιαφέροντος.\nΚλείστε τις πληροφορίες για να ενεργοποιηθεί."
+			},
+			{
+				"key": "en",
+				"text": "You are near a new point of interest.\nClose info to activate it."
+			}
+		]
 	}
 ]
