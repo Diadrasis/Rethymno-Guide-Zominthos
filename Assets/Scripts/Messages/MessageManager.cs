@@ -585,7 +585,7 @@ namespace Diadrasis.Rethymno
 
             txtCancelBtn.text = GetTermText(keyMessage.button_cancel.ToString());
 
-            _title = GetTermText(keyMessage.quitting_title.ToString());
+            _title = string.Empty;// GetTermText(keyMessage.quitting_title.ToString());
             _desc = GetTermText(keyMessage.quitting_desc.ToString());
             _action = GetTermText(keyMessage.button_quit.ToString());
 
@@ -652,6 +652,7 @@ namespace Diadrasis.Rethymno
             txtDesc.text = desc;
             txtActionBtn.text = action;
 
+            txtTitle.gameObject.SetActive(!title.IsNull());
             txtDesc.gameObject.SetActive(!desc.IsNull());
             btnAction.gameObject.SetActive(!action.IsNull());
             RefreshPanel();
